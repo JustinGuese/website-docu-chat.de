@@ -41,19 +41,6 @@
                 href="http://localhost:1313/de/categories/"
                 />
   </url><url>
-    <loc>http://localhost:1313/de/categories/science/</loc>
-    <lastmod>2020-03-14T15:40:24+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/categories/science/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de-de"
-                href="http://localhost:1313/de/categories/science/"
-                />
-  </url><url>
     <loc>http://localhost:1313/de/categories/technology/</loc>
     <lastmod>2020-03-14T15:40:24+06:00</lastmod>
     <xhtml:link
@@ -78,83 +65,6 @@
                 rel="alternate"
                 hreflang="de-de"
                 href="http://localhost:1313/de/blog/post-1/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/de/blog/post-2/</loc>
-    <lastmod>2020-03-14T15:40:24+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/blog/post-2/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de-de"
-                href="http://localhost:1313/de/blog/post-2/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/de/blog/post-3/</loc>
-    <lastmod>2020-03-14T15:40:24+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/blog/post-3/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de-de"
-                href="http://localhost:1313/de/blog/post-3/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/de/blog/post-4/</loc>
-    <lastmod>2020-03-14T15:40:24+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/blog/post-4/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de-de"
-                href="http://localhost:1313/de/blog/post-4/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/de/blog/post-5/</loc>
-    <lastmod>2020-03-14T15:40:24+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/blog/post-5/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de-de"
-                href="http://localhost:1313/de/blog/post-5/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/de/blog/post-6/</loc>
-    <lastmod>2020-03-14T15:40:24+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/blog/post-6/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de-de"
-                href="http://localhost:1313/de/blog/post-6/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/de/faq/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/faq/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de-de"
-                href="http://localhost:1313/de/faq/"
                 />
   </url><url>
     <loc>http://localhost:1313/de/how-it-works/</loc>

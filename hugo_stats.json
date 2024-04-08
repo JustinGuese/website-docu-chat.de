@@ -49,9 +49,6 @@
     ],
     "classes": [
       "accordion",
-      "accordion-content",
-      "accordion-header",
-      "accordion-icon",
       "accordion-panel",
       "active",
       "align-items-center",
@@ -390,8 +387,6 @@
       "firmenwissen-f%C3%BCr-marketing",
       "fname",
       "gdpr-compliance",
-      "how-to-customize-copper",
-      "how-to-start-with-copper",
       "job-apply",
       "join-our-growing-team",
       "join-team",

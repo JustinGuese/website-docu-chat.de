@@ -10,13 +10,13 @@ banner:
     video_embed_link : "https://www.youtube.com/embed/dyZcRRWiuuw"
   form:
     enable : true
-    form_acttion : "#"
+    form_acttion : "contact"
     button_label : "Persönliche Demo"
   button:
     enable : true
     # icon : "images/brands/google.png"
     label : "Gratis ausprobieren"
-    link : "#"
+    link : "https://app.doku-chat.de/"
     content : "Keine Kreditkarte benötigt. Funktioniert in allen Browsern."
 
 

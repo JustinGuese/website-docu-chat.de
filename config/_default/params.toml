@@ -40,14 +40,14 @@ greetings_to = "doku-chat.de "
 # Navigation button
 [navigation_button_bordered]
 enable = true
-label = "Free Trial"
-link = ""
+label = "Demo"
+link = "https://app.doku-chat.de/"
 
 # Navigation button
 [navigation_button_linked]
 enable = true
+link = "https://app.doku-chat.de/"
 label = "Log In"
-link = ""
 
 # Subscription
 [subscription]
