@@ -43,7 +43,7 @@ hasChildren = true
   [[main]]
   parent = "Über uns"
   name = "Impressum"
-  url = "pricing/"
+  url = "impressum/"
 
 # Footer menu
 [[footer]]
