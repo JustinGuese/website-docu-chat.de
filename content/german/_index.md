@@ -23,7 +23,7 @@ banner:
 
 ########################## Clients Logo Slider #########################
 clients_logo_slider:
-  enable : true
+  enable : false
   logos:
   - "images/brands/01-colored.png"
   - "images/brands/02-colored.png"
@@ -42,8 +42,8 @@ clients_logo_slider:
 ########################## How it works #########################
 homepage_tab:
   enable : true
-  title : "How **it Works**"
-  content : "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat sed."
+  title : "Wie es **funktioniert**"
+  content : "Lade deine Dokumente und Emails hoch, und stelle unserer AI Fragen dazu. Sie wird sich an alle Notizen und Emails erinnern, und dir mit spezifischem Firmenwissen antworten! Du hast ein Team? Baue eine Wissensdatenbank auf, die nur dein Team sehen kann!"
   tablist:
   # tab item
   - name : "Dokumente hochladen"
@@ -86,11 +86,58 @@ homepage_tab:
       link : "how-it-works"
 
 
+
+########################## How to use #########################
+homepage_howtouse:
+  enable : true
+  title : "**Anwendungsbeispiele**"
+  content : "Docu-chat.de kann in vielen Bereichen eingesetzt werden. Hier sind einige Beispiele, wie Sie Docu-chat.de für sich und in Ihrem Unternehmen nutzen können."
+  tablist:
+  # tab item
+  - name : "Email Suche"
+    title : "**Emails** durchsuchen"
+    image : "images/screenshots/how-it-works-1.jpg"
+    content : "Anders als bei Outlook & co muss man nicht das genaue Wort treffen, sondern unsere AI kann auch Wissen aus dem Kontext abrufen. So findet man auch Treffer zu Suchen wie 'was war nochmal der Preis im Angebot von XY?', anstatt sich mühevoll durch die Timeline zu scrollen."
+    button:
+      enable : true
+      label : "Mehr erfahren"
+      link : "how-it-works"
+      
+  # tab item
+  - name : "Dokumente zusammenfassen"
+    title : "Dokumente **zusammenfassen**"
+    image : "images/screenshots/03.png"
+    content : "Ihre Dokumente sind unübersichtlich und heißen nur 'final_final_final.docx'? Unsere AI kann Ihnen eine Zusammenfassung erstellen, und Ihnen so helfen, schneller zu den wichtigen Informationen zu kommen."
+    button:
+      enable : true
+      label : "Mehr erfahren"
+      link : "how-it-works"
+      
+  # tab item
+  - name : "Firmenwissen für Marketing"
+    title : "**Firmenwissen** für Marketing"
+    image : "images/screenshots/04.png"
+    content : "ChatGPT & Co wissen nichts über ihre Firma. Sprich Befehle wie 'schreibe einen Werbetext für den XY Kühlschrank' funktionieren nicht. Unsere AI kann dies, solange sie mit genügend Informationen aus den Dokumenten gefüttert wurde. Damit können sie auch spezifische Anweisungen geben wie 'schreibe einen Werbetext für den XY Kühlschrank, der sich an 18-25 jährige richtet'."
+    button:
+      enable : true
+      label : "Mehr erfahren"
+      link : "how-it-works"
+      
+  # tab item
+  - name : "Strategische Entscheidungen"
+    title : "Strategische **Entscheidungen**"
+    image : "images/screenshots/how-it-works-1.jpg"
+    content : "Kennen Sie die Situation wo sie sich viel zu sehr in einem Thema verlieren, und es eventuell wichtigere Fokusgebiete gibt? Unsere AI kann Ihnen bei dem Überblick helfen, da sie sich viel mehr Informationen merken kann als Sie. So können Sie schneller und effizienter Entscheidungen treffen."
+    button:
+      enable : true
+      label : "Mehr erfahren"
+      link : "how-it-works"
+
 ############################## Tools in Use ########################
 tools:
-  enable : true
-  title : "Integrate the **tools you already use**"
-  content : "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat sed."
+  enable : false
+  title : "Nutze deine **bestehenden Tools** als Informationsquelle"
+  content : "Wir unterstützen"
   logos:
   - "images/tools/01.png"
   - "images/tools/02.png"
@@ -107,85 +154,75 @@ tools:
 ############################## Achivement ##############################
 achivement:
   enable : true
-  title : "Average yearly growth rate **across our clients We able to achive**"
-  content : "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat sed. At vero eos et"
+  title : "Booste deine Produktivität mit einem **allwissenden Assistenten**"
+  content : "Wie viel Zeit verbringst Du damit nach alten Emails und Notizen zu suchen? Was wäre wenn dein virtueller Assistent sich an jedes Dokument, jede Email, jede Notiz der letzten Jahre erinnern würde?"
   funfacts:
-  - name : "Years Of <br> Experience"
-    count : "24"
-    extension : "+"
+  - name : "Im Schnitt gesparte Zeit pro Woche"
+    count : "18"
+    extension : "h"
     
-  - name : "More Real <br> Active users"
-    count : "10"
-    extension : "M+"
+  - name : "pro Zusammen- <br/>fassung"
+    count : "5"
+    extension : "s"
     
-  - name : "Employees <br> Work Here"
-    count : "3000"
-    extension : "+"
+  - name : "Reduktion der <br/>Fehlinformation"
+    count : "34"
+    extension : "%"
 
   services:
-  - name : "Fully Secure And Hacking Free"
+  - name : "24/7 persönlicher AI Assistent"
     icon : "far fa-thumbs-up" # fontawesome icon : https://fontawesome.com/icons
     
-  - name : "Always Having A Great Supports"
+  - name : "Persönliches Onboarding"
     icon : "far fa-comment-dots" # fontawesome icon : https://fontawesome.com/icons
     
-  - name : "Build with Time Balanceing"
-    icon : "fas fa-film" # fontawesome icon : https://fontawesome.com/icons
+  - name : "Made in Germany"
+    icon : "fas fa-globe" # fontawesome icon : https://fontawesome.com/icons
     
-  - name : "Fully Prepared with Safe Condition"
+  - name : "DSGVO konform"
     icon : "fas fa-shield-alt" # fontawesome icon : https://fontawesome.com/icons
 
 
 ############################## Workflow ################################
 workflow:
   enable : true
-  title : "Create an automated **workflow by setting**"
+  title : "Sie haben **sensible Daten**?"
   image : "images/screenshots/03.png"
-  content : "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat sed."
+  content : "Wir bieten auch die Option an, unsere in Deutschland gehosteten KI Modelle zu nutzen, so dass Sie alle Vorgaben der Informationssicherheit (BaFin / Kliniklandeskrankenhausgesetz) erfüllen."
   
 
 ############################## about us ################################
 about_us:
   enable : true
-  title : "Who Are We And **What Is Our Identity?**"
+  title : "Wer sind **wir?**"
   image : "images/about/01.jpg"
-  content : "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat sed. At vero eos et accusam et justo duo dolores"
+  content : "DataFortress.cloud ist eine Firma aus Augsburg, Deutschland, welche sich auf Data Engineering im Machine Learning / Big Data Bereich spezialisiert hat. Zu unseren Kunden zählen VW, BMW, Porsche, HPE, Atruvia (Sparkasse & Volksbank), und viele mehr. Nun bieten wir unser Wissen auch in Form von SaaS Produkten an."
   bulletpoints:
-    - "Habit building in essential steps choose habit Good Things"
-    - "Get an overview of Habit Calendars admiral general."
-    - "Start building habit with Habitify on platform to new"
+    - "Enterprise Kunden (VW, BMW, Porsche, HPE, Atruvia (Sparkasse & Volksbank), und viele mehr)"
+    - "Data Engineering Datenschutz-Wissen für Finance / Health"
+    - "Ihnen fehlt etwas an dieser Lösung? Wir können auch eine individuelle Lösung für Sie entwickeln!"
 
     
 
 ############################# Testimonial ############################
 testimonial:
   enable : true
-  title : "What Our **Client says**"
-  content : "Lorem ipsum sadip dolor sit amet, consetetur sadip scing elitr, diam nonumy eirmod tempor invi duntut labore et dolore magna aliquyam erat, sed diam"
+  title : "Was unsere **Kunden** sagen"
+  content : "Überzeugen Sie sich selbst von der Leistung unserer AI!"
   button:
     enable : true
-    label : "View All Testimonials"
+    label : "Alle Testimonials ansehen"
     link : "testimonial"
 
   testimonial_item:
-  - name : "Angela Markel"
+  - name : "Max Linnemann"
     image : "images/users/01.jpg"
-    designation : "CEO, Angular Corporation"
-    content : "Lorem ipsum dolor sit amet, kasd gubergren, seatakimata dolores et rebum stetclita"
+    designation : "Founder"
+    content : "Ich nutze Docu-chat.de um meine Emails zu durchsuchen. Die Outlook Suche hat für mich nie richtig funktioniert, aber Docu-chat.de findet immer was ich suche! Top!"
     
-  - name : "Angela Markel"
+  - name : "Mark Hermann"
     image : "images/users/02.jpg"
-    designation : "CEO, Angular Corporation"
-    content : "Lorem ipsum dolor sit amet, kasd gubergren, seatakimata dolores et rebum stetclita"
+    designation : "CEO"
+    content : "Wir nutzen Docu-chat.de als interne Wissensdatenbank. Unsere Confluence Seiten sind relativ gut gepflegt, aber die Suche ist einfach nicht so gut, oder Informationen gehen verloren. Der Docu-chat.de Chatbot ist in unser Intranet integriert, und kann so viel schneller Fragen von Mitarbeitern beantworten."
     
-  - name : "Angela Markel"
-    image : "images/users/03.jpg"
-    designation : "CEO, Angular Corporation"
-    content : "Lorem ipsum dolor sit amet, kasd gubergren, seatakimata dolores et rebum stetclita"
-    
-  - name : "Angela Markel"
-    image : "images/users/02.jpg"
-    designation : "CEO, Angular Corporation"
-    content : "Lorem ipsum dolor sit amet, kasd gubergren, seatakimata dolores et rebum stetclita"
-
 ---

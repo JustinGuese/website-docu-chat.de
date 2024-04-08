@@ -6,69 +6,39 @@ url = ""
 weight = 1
 
 [[main]]
-name = "About"
-url = "about/"
+name = "Wie es funktioniert"
+url = "how-it-works/"
 weight = 2
 
 [[main]]
-name = "Services"
-url = "services/"
+name = "Preise"
+url = "pricing/"
 weight = 3
-
-[[main]]
-name = "Team"
-url = "team/"
-weight = 4
-
-[[main]]
-name = "Blog"
-url = "blog/"
-weight = 5
 
 [[main]]
 name = "Contact"
 url = "contact/"
-weight = 6
+weight = 4
 
 [[main]]
-name = "Pages"
-weight = 7
+name = "Über uns"
+weight = 5
 hasChildren = true
 
   [[main]]
-  parent = "Pages"
-  name = "Career"
-  url = "career/"
+  parent = "Über uns"
+  name = "AGB"
+  url = "terms-conditions/"
 
   [[main]]
-  parent = "Pages"
-  name = "Pricing"
+  parent = "Über uns"
+  name = "Privatsphären-Information"
+  url = "privacy-policy/"
+
+  [[main]]
+  parent = "Über uns"
+  name = "Impressum"
   url = "pricing/"
-
-  [[main]]
-  parent = "Pages"
-  name = "Pricing 2"
-  url = "pricing-2/"
-  
-  [[main]]
-  parent = "Pages"
-  name = "How It Works"
-  url = "how-it-works/"
-  
-  [[main]]
-  parent = "Pages"
-  name = "Testimonial"
-  url = "testimonial/"
-  
-  [[main]]
-  parent = "Pages"
-  name = "Faq"
-  url = "faq/"
-  
-  [[main]]
-  parent = "Pages"
-  name = "Changelog"
-  url = "changelog/"
 
 # Footer menu
 [[footer]]

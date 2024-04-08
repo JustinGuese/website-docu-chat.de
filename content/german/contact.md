@@ -1,6 +1,6 @@
 ---
-title : "Contact Us"
-description : "this is meta description"
+title : "Kontaktieren Sie uns"
+description : "Kontakt"
 layout : "contact"
 draft : false
 
@@ -8,22 +8,23 @@ draft : false
 ########## Address ###############
 contact_info:
   enable : true
-  title : "Our Contact Info"
+  title : "Schreiben Sie uns gerne eine Nachricht"
   address_list:
-  - "gothesaasgo@gmail.com"
-  - "(207) 555-0119"
-  - "3891 Ranchview Dr. Richardson Main Road Near Amazon, California 62639"
+  - "info@doku-chat.de"
+  - "(+49) 160 1136770"
+  - "ein Produkt der DataFortress.cloud, Augsburg"
 
 ############ Services ############
 services:
   enable : true
-  title : "With Gossas you can"
+  title : "docu-chat.de kann"
   service_list:
-  - "Focus critical developer resources on your core business"
-  - "Launch new products faster with less payments code"
-  - "Improve conversion from international customers"
+  - "Emails nach Kontext durchsuchen"
+  - "Marketing auf Firmenwissen abstimmen"
+  - "als interne Dokumentation genutzt werden"
   
 ---
 
-## Contact **Us**
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat sed.
+## Kontaktieren Sie uns
+
+Sie wissen nich nicht wo Sie anfangen sollen? Gerne helfen wir Ihnen unverbindlich bei einer ersten Einschätzung
