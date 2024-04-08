@@ -1,0 +1,17 @@
+{{ define "main" }}
+
+<section class="section-padding" data-aos="fade-in" data-aos-delay="150">
+  <div class="container">
+    <div class="row justify-content-center">
+      <div class="col-lg-6 col-md-9 text-center mb-40">
+        <div class="content">{{ .Content }}</div>
+      </div>
+    </div>
+    <script async src="https://js.stripe.com/v3/pricing-table.js"></script>
+<stripe-pricing-table pricing-table-id="prctbl_1P3G6zHO7kJye1XtbQ9FLTz2"
+publishable-key="pk_test_51P3FwjHO7kJye1XtGE1Bjr0YZQSnML2po27lmXg9dTZ7pglnztRZm02JHDGQKmdmkPv8syI8JwopXBbGLQjqE8gk00WOwZwYoN">
+</stripe-pricing-table>
+  </div>
+</section>
+
+{{ end }}

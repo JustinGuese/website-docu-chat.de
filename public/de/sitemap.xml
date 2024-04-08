@@ -67,6 +67,8 @@
                 href="http://localhost:1313/de/blog/post-1/"
                 />
   </url><url>
+    <loc>http://localhost:1313/de/subscribe-success/</loc>
+  </url><url>
     <loc>http://localhost:1313/de/how-it-works/</loc>
     <xhtml:link
                 rel="alternate"
