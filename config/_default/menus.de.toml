@@ -16,7 +16,7 @@ url = "pricing/"
 weight = 3
 
 [[main]]
-name = "Contact"
+name = "Kontakt"
 url = "contact/"
 weight = 4
 
@@ -47,12 +47,12 @@ hasChildren = true
 
 # Footer menu
 [[footer]]
-name = "Faq"
-url = "faq/"
+name = "Kontakt"
+url = "contact/"
 weight = 1
 
 [[footer]]
-name = "Terms & Conditions"
+name = "AGB"
 url = "terms-conditions/"
 weight = 2
 

@@ -10,13 +10,13 @@ banner:
     video_embed_link : "https://www.youtube.com/embed/dyZcRRWiuuw"
   form:
     enable : true
-    form_acttion : "contact"
+    form_acttion : "https://formspree.io/f/xbjnpgko"
     button_label : "Persönliche Demo"
   button:
     enable : true
     # icon : "images/brands/google.png"
     label : "Gratis ausprobieren"
-    link : "https://app.doku-chat.de/"
+    link : "how-it-works"
     content : "Keine Kreditkarte benötigt. Funktioniert in allen Browsern."
 
 
@@ -48,7 +48,7 @@ homepage_tab:
   # tab item
   - name : "Dokumente hochladen"
     title : "**Dokumente** hochladen"
-    image : "images/screenshots/how-it-works-1.jpg"
+    image : "images/screenshots/mainscreen.png"
     content : "Laden Sie Dokumente (word, powerpoint, txt, pdf, ...), Emails oder Notizen hoch, und unsere AI liest sie auf sicheren deutschen Servern ein."
     button:
       enable : true
@@ -58,7 +58,7 @@ homepage_tab:
   # tab item
   - name : "Chat starten"
     title : "**Chat** starten"
-    image : "images/screenshots/03.png"
+    image : "images/screenshots/chat-zoom.png"
     content : "Nach dem Upload können Sie der AI jegliche Fragen stellen, und sie wird mit dem Wissen aus den Dokumenten antworten, sogar inklusive Quellen und Zitaten!"
     button:
       enable : true
@@ -68,7 +68,7 @@ homepage_tab:
   # tab item
   - name : "Unterschiedliche Projekte"
     title : "Unterschiedliche **Projekte**"
-    image : "images/screenshots/04.png"
+    image : "images/screenshots/mainscreen.png"
     content : "ChatGPT & Co erlauben nicht wirklich eine Trennung des Wissens nach Projekten. Was ist wenn bestimmte Teammitglieder nur bestimmte Projekte sehen dürfen? Was wenn man ständig Antworten mit Wissen aus anderen Projekten bekommt? Doku-chat.de erlaubt die Trennung des Wissens nach Projekten und Teams."
     button:
       enable : true
@@ -78,7 +78,7 @@ homepage_tab:
   # tab item
   - name : "Firmen-Wissen"
     title : "**Firmen-Wissen**"
-    image : "images/screenshots/how-it-works-1.jpg"
+    image : "images/screenshots/chat.png"
     content : "Bauen Sie die ultimative Firmen-Wissensdatenbank auf. Wir helfen gerne beim Einlesen von internen Dokumentationen wie Confluence, Jira, Gitlab etc., so dass Sie Ihren Mitarbeitern oder Kunden einen internen Chatbot mit all ihrem Firmenwissen zur Verfügung stellen können!"
     button:
       enable : true
@@ -96,7 +96,7 @@ homepage_howtouse:
   # tab item
   - name : "Email Suche"
     title : "**Emails** durchsuchen"
-    image : "images/screenshots/how-it-works-1.jpg"
+    image : "images/screenshots/chat-history.png"
     content : "Anders als bei Outlook & co muss man nicht das genaue Wort treffen, sondern unsere AI kann auch Wissen aus dem Kontext abrufen. So findet man auch Treffer zu Suchen wie 'was war nochmal der Preis im Angebot von XY?', anstatt sich mühevoll durch die Timeline zu scrollen."
     button:
       enable : true
@@ -106,7 +106,7 @@ homepage_howtouse:
   # tab item
   - name : "Dokumente zusammenfassen"
     title : "Dokumente **zusammenfassen**"
-    image : "images/screenshots/03.png"
+    image : "images/screenshots/documents.png"
     content : "Ihre Dokumente sind unübersichtlich und heißen nur 'final_final_final.docx'? Unsere AI kann Ihnen eine Zusammenfassung erstellen, und Ihnen so helfen, schneller zu den wichtigen Informationen zu kommen."
     button:
       enable : true
@@ -116,7 +116,7 @@ homepage_howtouse:
   # tab item
   - name : "Firmenwissen für Marketing"
     title : "**Firmenwissen** für Marketing"
-    image : "images/screenshots/04.png"
+    image : "images/screenshots/documents.png"
     content : "ChatGPT & Co wissen nichts über ihre Firma. Sprich Befehle wie 'schreibe einen Werbetext für den XY Kühlschrank' funktionieren nicht. Unsere AI kann dies, solange sie mit genügend Informationen aus den Dokumenten gefüttert wurde. Damit können sie auch spezifische Anweisungen geben wie 'schreibe einen Werbetext für den XY Kühlschrank, der sich an 18-25 jährige richtet'."
     button:
       enable : true
@@ -126,7 +126,7 @@ homepage_howtouse:
   # tab item
   - name : "Strategische Entscheidungen"
     title : "Strategische **Entscheidungen**"
-    image : "images/screenshots/how-it-works-1.jpg"
+    image : "images/screenshots/chat-zoom.png"
     content : "Kennen Sie die Situation wo sie sich viel zu sehr in einem Thema verlieren, und es eventuell wichtigere Fokusgebiete gibt? Unsere AI kann Ihnen bei dem Überblick helfen, da sie sich viel mehr Informationen merken kann als Sie. So können Sie schneller und effizienter Entscheidungen treffen."
     button:
       enable : true
@@ -187,7 +187,7 @@ achivement:
 workflow:
   enable : true
   title : "Sie haben **sensible Daten**?"
-  image : "images/screenshots/03.png"
+  image : "images/screenshots/mainscreen.png"
   content : "Wir bieten auch die Option an, unsere in Deutschland gehosteten KI Modelle zu nutzen, so dass Sie alle Vorgaben der Informationssicherheit (BaFin / Kliniklandeskrankenhausgesetz) erfüllen."
   
 
@@ -211,8 +211,8 @@ testimonial:
   content : "Überzeugen Sie sich selbst von der Leistung unserer AI!"
   button:
     enable : true
-    label : "Kontakt"
-    link : "contact"
+    label : "Alle Testimonials ansehen"
+    link : "testimonial"
 
   testimonial_item:
   - name : "Max Linnemann"
