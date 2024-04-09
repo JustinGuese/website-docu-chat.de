@@ -41,7 +41,7 @@ greetings_to = "doku-chat.de "
 [navigation_button_bordered]
 enable = true
 label = "Demo"
-link = "https://app.doku-chat.de/"
+link = "/how-it-works"
 
 # Navigation button
 [navigation_button_linked]
