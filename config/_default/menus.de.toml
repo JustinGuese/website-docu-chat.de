@@ -27,6 +27,11 @@ hasChildren = true
 
   [[main]]
   parent = "Über uns"
+  name = "Tutorials"
+  url = "/blog"
+
+  [[main]]
+  parent = "Über uns"
   name = "Mein Abonnement"
   url = "https://billing.stripe.com/p/login/test_bIY6pJesg2dC9iMdQQ"
 
