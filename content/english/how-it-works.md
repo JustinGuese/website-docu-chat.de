@@ -11,7 +11,8 @@ draft : false
         <h2>Demo Zugang</h2>
         <p>Probieren Sie Doku-Chat.de Live aus, oder schauen Sie sich die Demo Videos unten an.</p>
         <p>Die Demo Version von Doku-Chat.de hat ein kleineres AI-Modell, daher ist die Performance nicht die selbe wie in der Vollversion.</p>
-        <a href="https://app.doku-chat.de" target="_blank"><button class="btn btn-primary mt-4 mb-4">Zur Demo</button></a>
+        <a href="/pricing"><button class="btn btn-primary mt-4 mb-1">Direkt die Vollversion 14 Tage gratis testen (keine Kreditkarte nötig)</button></a>
+        <a href="https://app.doku-chat.de" target="_blank"><button class="btn btn-secondary mb-4">Zur Demo</button></a>
         <p>User: dokuchat@doku-chat.de</p>
         <p>Passwort: dokuchat24 </p>
     </div>

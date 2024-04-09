@@ -37,7 +37,11 @@
             <span class="mx-2">|</span>
             <span>{{ .Page.ReadingTime }} {{ i18n "minute_read" }}</span>
           </div>
-          <div class="content">{{.Content}}</div>
+          <aside>
+            {{ .TableOfContents }}
+          </aside>
+          <div class="content mt-2">{{.Content}}</div>
+        
         </div>
 
         {{ if site.DisqusShortname }}
