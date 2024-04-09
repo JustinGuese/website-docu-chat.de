@@ -89,6 +89,36 @@
                   </div>
                 {{ end }}
               {{ end }}
+              {{ if .form_freebie.enable }}
+                {{ with .form_freebie }}
+                  <form
+                    action="{{ .form_action }}"
+                    method="post"
+                    class="needs-validation mt-30"
+                    novalidate>
+                    <div class="input-group d-block d-sm-flex">
+                      <input
+                        name = "email"
+                        type="email"
+                        class="form-control bg-transparent"
+                        placeholder="name@email.com"
+                        required />
+                      <div class="input-group-append">
+                        <button
+                          type="submit"
+                          class="btn btn-secondary has-icon ms-15">
+                          {{ .button_label }}
+                      </button>
+                      </div>
+                    </div>
+                    <small>{{ .pdf_explanation }}</small>
+                  </form>
+
+                  <div class="divider-text mt-25 mb-25">
+                    <span class="bg-light-gray">OR</span>
+                  </div>
+                {{ end }}
+              {{ end }}
 
               {{ if .button.enable }}
                 {{ with .button }}
