@@ -14,7 +14,7 @@ banner:
     button_label : "Persönliche Demo"
   form_freebie:
     enable : true
-    form_action : "https://datafortress-faas.hs.datafortress.cloud"
+    form_action : "https://datafortress-faas.hs.datafortress.cloud/dokuchat/freebie-submission"
     button_label : "Gratis PDF Tutorial"
     pdf_explanation: "In dieser gratis PDF erfahren Sie, wie Sie ChatGPT mit Dokumenten nutzen können, wo die Challenges mit DSGVO & co liegen, und wie Sie Schritt für Schritt erklärt eine selbst gehostete eigene Lösung aufsetzen können."
   button:
