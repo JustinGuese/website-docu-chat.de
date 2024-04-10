@@ -6,7 +6,7 @@ Thank you for your subscription! We will contact you shortly with your access cr
 
 
 <script>
-fbq('track', 'Purchase', {
+fbq('track', 'StartTrial', {
     });
 // Fire the 'purchase' event
 gtag('event', 'purchase', {
