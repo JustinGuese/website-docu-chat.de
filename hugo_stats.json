@@ -358,7 +358,10 @@
       "text-primary",
       "top",
       "user-info",
+      "video-js",
       "video-play-btn",
+      "vjs-big-play-centered",
+      "vjs-default-skin",
       "w-100"
     ],
     "ids": [
@@ -435,6 +438,7 @@
       "und-was-für-eine-gpu-ist-das-konkret",
       "und-was-für-einen-server-brauche-ich-für-die-modelle",
       "unterschiedliche-projekte",
+      "video",
       "videoModal",
       "warum-nicht-einfach-ein-cloud-modell-verwenden",
       "was-benötige-ich-um-ein-selbst-gehostetes-ki-modell-zu-betreiben",

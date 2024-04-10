@@ -7,7 +7,7 @@ banner:
   image : "images/screenshots/banner-shot.png"
   video:
     enable : true
-    video_embed_link : "https://www.youtube.com/embed/dyZcRRWiuuw"
+    video_embed_link : "/videos/dokuchat-firmen-ad.mp4"
   form:
     enable : true
     form_action : "https://formspree.io/f/xbjnpgko"
