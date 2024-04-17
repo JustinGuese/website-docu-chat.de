@@ -29,7 +29,7 @@ draft : false
       </div>
       <div class="col-lg-4 mt-4 mt-lg-0" data-aos="fade-in">
         <div class="content">
-            <h2>Emails einspielen</h2>
+            <h2 id="emails">Emails einspielen</h2>
             <p>In diesem Demo Video erfahren Sie, wie sie Outlook Emails in doku-chat.de einspielen und dem Chatbot fragen dazu stellen.</p>
         </div>
       </div>
@@ -44,7 +44,7 @@ draft : false
     <div class="row align-items-center">
       <div class="col-lg-4 col-md-5" data-aos="fade-in">
         <div class="content">
-            <h2>Word/Office Dokumente einspielen</h2>
+            <h2 id="word">Word/Office Dokumente einspielen</h2>
             <p>Auch Word, Powerpoint und PDF Dokumente können Sie mühelos einspielen und mit dem Chatbot diskutieren.</p>
         </div>
       </div>
@@ -79,7 +79,7 @@ draft : false
       </div>
       <div class="col-lg-4 mt-4 mt-lg-0" data-aos="fade-in">
         <div class="content">
-            <h2>Marketing mit Firmenwissen anreichern</h2>
+            <h2 id="marketing">Marketing mit Firmenwissen anreichern</h2>
             <p>In diesem Demo Video erfahren Sie, wie der Chatbot im Gegensatz zu ChatGPT & Co mit Firmenwissen angereichert werden, und somit z.B. Marketing Aufgaben erledigen kann.</p>
         </div>
       </div>
