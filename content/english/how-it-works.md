@@ -7,14 +7,36 @@ draft : false
 
 <section class="section-padding">
   <div class="container">
-    <div class="row align-items-center justify-content-around">
-        <h2>Direkt loslegen</h2>
-        <a href="https://calendly.com/justin-guese/doku-chat-onboarding"><button class="btn btn-primary mt-4 mb-1">Buchen Sie ein gratis 30-minütiges Onboarding und erhalten Sie das <strong>Plus Paket einen Monat gratis!</strong></button></a>
-        <p>- oder - </p>
-        <a href="/pricing"><button class="btn btn-secondary mt-1 mb-1">Probieren Sie Doku-Chat.de direkt aus mit unserem kostenlosen "forever free" Tarif. Keine Kreditkarte erforderlich.</button></a>
+    <div class="row">
+      <div class="col">
+        <div class="card">
+          <div class="card-body">
+            <h2 class="mb-2">Option 1: Onboarding</h2>
+            <p>Buchen Sie ein gratis 30-minütiges Onboarding und erhalten Sie das <strong>Plus Paket einen Monat gratis!</strong></p>
+            <p>Unverbindlich, 1:1 mit dem Entwickler.</p>
+            <a href="https://calendly.com/justin-guese/doku-chat-onboarding">
+              <button class="btn btn-primary mt-4">Jetzt buchen</button>
+            </a>
+          </div>
+        </div>
+      </div>
+    <div class="col">
+        <div class="card">
+          <div class="card-body">
+            <h2 class="mb-2">Option 2: "Forever Free"</h2>
+            <p>Unser Starter "Forever Free" Tier erlaubt es direkt loszustarten.</p>
+            <p>Keine Kreditkarte benötigt. Für immer gratis mit "Forever Free" Paket.</p>
+            <p>Ein-Klick Registration mit Google Login, oder Email Account Erstellung.</p>
+            <a href="/pricing">
+              <button class="btn btn-secondary mt-4">Direkt losstarten</button>
+            </a>
+          </div>
+        </div>
+      </div>
     </div>
   </div>
-</section>
+</div>
+
 
 <section class="section-padding">
   <div class="container">
