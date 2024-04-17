@@ -45,8 +45,8 @@ pricing_card:
 - name : "Premium"
   content : "Der volle Funktionsumfang inklusive Email-Auto-Sync, Team Features, Sharing, und dem besten KI Modell."
   currency: "€"
-  monthly_price : "129"
-  yearly_price : "229"
+  monthly_price : "99"
+  yearly_price : "990"
   featured : false
   button_label : "Abonnieren"
   button_link : "https://app.doku-chat.de/profile"
