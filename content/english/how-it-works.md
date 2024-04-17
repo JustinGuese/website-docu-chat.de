@@ -21,7 +21,7 @@ draft : false
   <h2 class="mb-2">Tutorials</h2>
     <div class="row align-items-center justify-content-around">
       <div class="col-lg-7" data-aos="fade-up" data-aos-delay="150">
-        <video width="600" controls>
+        <video width="600" preload="none" controls>
         <source src="/videos/dokuchat-email-demo.webm" type="video/webm">
         <source src="/videos/dokuchat-email-demo.mp4" type="video/mp4">
         Your browser does not support the video tag.
@@ -49,7 +49,7 @@ draft : false
         </div>
       </div>
       <div class="col-lg-8 col-md-7" data-aos="fade-up" data-aos-delay="150">
-          <video width="600" controls>
+          <video width="600" preload="none" controls>
             <source src="/videos/dokuchat-word-demo.webm" type="video/webm">
             <source src="/videos/dokuchat-word-demo.mp4" type="video/mp4">
             Your browser does not support the video tag.
@@ -71,7 +71,7 @@ draft : false
   <div class="container">
     <div class="row align-items-center justify-content-around">
       <div class="col-lg-7" data-aos="fade-up" data-aos-delay="150">
-        <video width="600" controls>
+        <video width="600" preload="none" controls>
         <source src="/videos/dokuchat-marketing-demo.webm" type="video/webm">
         <source src="/videos/dokuchat-marketing-demo.mp4" type="video/mp4">
         Your browser does not support the video tag.
