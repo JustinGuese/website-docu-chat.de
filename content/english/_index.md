@@ -11,7 +11,7 @@ banner:
   form:
     enable : true
     form_action : "https://formspree.io/f/xbjnpgko"
-    button_label : "Persönliche Demo"
+    button_label : "Persönliche Demo buchen"
   form_freebie:
     enable : true
     form_action : "https://datafortress-faas.hs.datafortress.cloud/dokuchat/freebie-submission"
@@ -21,7 +21,7 @@ banner:
     enable : true
     # icon : "images/brands/google.png"
     label : "Gratis ausprobieren"
-    link : "how-it-works"
+    link : "pricing"
     content : "Keine Kreditkarte benötigt. Funktioniert in allen Browsern."
 
 

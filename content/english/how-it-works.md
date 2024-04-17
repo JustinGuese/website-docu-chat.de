@@ -8,22 +8,21 @@ draft : false
 <section class="section-padding">
   <div class="container">
     <div class="row align-items-center justify-content-around">
-        <h2>Demo Zugang</h2>
-        <p>Probieren Sie Doku-Chat.de Live aus, oder schauen Sie sich die Demo Videos unten an.</p>
-        <p>Die Demo Version von Doku-Chat.de hat ein kleineres AI-Modell, daher ist die Performance nicht die selbe wie in der Vollversion.</p>
-        <a href="/pricing"><button class="btn btn-primary mt-4 mb-1">Direkt die Vollversion 14 Tage gratis testen (keine Kreditkarte nötig)</button></a>
-        <a href="https://app.doku-chat.de" target="_blank"><button class="btn btn-secondary mb-4">Zur Demo</button></a>
-        <p>User: dokuchat@doku-chat.de</p>
-        <p>Passwort: dokuchat24 </p>
+        <h2>Direkt loslegen</h2>
+        <a href="https://calendly.com/justin-guese/doku-chat-onboarding"><button class="btn btn-primary mt-4 mb-1">Buchen Sie ein gratis 30-minütiges Onboarding und erhalten Sie das <strong>Plus Paket einen Monat gratis!</strong></button></a>
+        <p>- oder - </p>
+        <a href="/pricing"><button class="btn btn-secondary mt-1 mb-1">Probieren Sie Doku-Chat.de direkt aus mit unserem kostenlosen "forever free" Tarif. Keine Kreditkarte erforderlich.</button></a>
     </div>
   </div>
 </section>
 
 <section class="section-padding">
   <div class="container">
+  <h2 class="mb-2">Tutorials</h2>
     <div class="row align-items-center justify-content-around">
       <div class="col-lg-7" data-aos="fade-up" data-aos-delay="150">
         <video width="600" controls>
+        <source src="/videos/dokuchat-email-demo.webm" type="video/webm">
         <source src="/videos/dokuchat-email-demo.mp4" type="video/mp4">
         Your browser does not support the video tag.
         </video>
@@ -51,6 +50,7 @@ draft : false
       </div>
       <div class="col-lg-8 col-md-7" data-aos="fade-up" data-aos-delay="150">
           <video width="600" controls>
+            <source src="/videos/dokuchat-word-demo.webm" type="video/webm">
             <source src="/videos/dokuchat-word-demo.mp4" type="video/mp4">
             Your browser does not support the video tag.
             </video>
@@ -72,6 +72,7 @@ draft : false
     <div class="row align-items-center justify-content-around">
       <div class="col-lg-7" data-aos="fade-up" data-aos-delay="150">
         <video width="600" controls>
+        <source src="/videos/dokuchat-marketing-demo.webm" type="video/webm">
         <source src="/videos/dokuchat-marketing-demo.mp4" type="video/mp4">
         Your browser does not support the video tag.
         </video>
