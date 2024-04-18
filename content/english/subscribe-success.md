@@ -2,13 +2,4 @@
 title : "Subscribe success"
 description : "this is meta description"
 ---
-Thank you for your subscription! We will contact you shortly with your access credentials!
-
-
-<script>
-fbq('track', 'StartTrial', {
-    });
-// Fire the 'purchase' event
-gtag('event', 'purchase', {
-});
-</script>
+Thank you for your subscription! Continue to [app.doku-chat.de](https://app.doku-chat.de) to start using the service.

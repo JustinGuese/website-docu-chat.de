@@ -51,7 +51,7 @@ label = "Log In"
 
 # Subscription
 [subscription]
-enable = true
+enable = false
 # mailchimp subsciption
 mailchimp_form_action = "https://gmail.us4.list-manage.com/subscribe/post?u=463ee871f45d2d93748e77cad&amp;id=a0a2c6d074" # replace this url with yours
 mailchimp_form_name =  "b_463ee871f45d2d93748e77cad_a0a2c6d074"                                                           # replace this code with yours
@@ -79,9 +79,9 @@ enableQQ = false # https://valine.js.org/en/configuration.html#enableQQ
 
 # seo meta data for OpenGraph / Twitter Card
 [metadata]
-keywords = ["Copper", "Hugo", "Gethugothemes", "Themefisher"]
+keywords = ["KI Chat", "Dokumente in ChatGPT", "KI DSGVO", "DataFortress.cloud"]
 description = "This is meta description"
-author = "Gethugothemes"
+author = "DataFortress.cloud"
 image = "images/logo.png"                                       # this image will be used as fallback if a page has no image of its own
 
 # matomo tracking: see https://matomo.org/
@@ -112,7 +112,7 @@ title = "Steigern Sie Ihre Effizienz und die Ihrer Mitarbeiter um **34+%**"
 [footer_cta_button]
 enable = true
 label = "Gratis Demo anfordern"
-link = "contact"
+link = "how-it-works"
 
 # site verifications
 [site_verification]
@@ -126,8 +126,8 @@ mastodon = "" # Your verification code
 [cookies]
 enable = true
 expire_days = 2
-content = "This site uses cookies. By continuing to use this website, you agree to their use."
-button = "I Accept"
+content = "Diese Website verwendet Cookies. Durch die weitere Nutzung dieser Website stimmen Sie deren Verwendung zu."
+button = "Ich stimme zu"
 
 ############################# social site ########################
 [[social]]

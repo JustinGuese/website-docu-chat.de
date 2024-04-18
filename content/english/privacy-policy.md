@@ -56,14 +56,8 @@ Consent of the data subject is any freely given, specific, informed and unambigu
 Controller for the purposes of the General Data Protection Regulation (GDPR), other data protection laws applicable in Member states of the European Union and other provisions related to data protection is:
 
 DataFortress.cloud
-
-Schönbrunner Straße 266
-
-1120 Vienna
-
-Austria
-
-Phone: +43 677 61178288
+Georgenstraße 13
+86152 Augsburg
 
 Email: info@datafortress.cloud
 Website: https://www.datafotress.cloud
