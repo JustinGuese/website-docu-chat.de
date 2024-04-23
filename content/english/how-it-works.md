@@ -7,7 +7,30 @@ draft : false
 
 <section class="section-padding">
   <div class="container">
+  <h2 class="mb-2">Hauptvideo</h2>
+    <div class="row align-items-center justify-content-around">
+      <div class="col-lg-7" data-aos="fade-up" data-aos-delay="150">
+        <video width="600" preload="none" controls poster="/videos/dokuchat-demo-thumbnail.png">
+        <source src="/videos/dokuchat-handson-demo.webm" type="video/webm">
+        <source src="/videos/dokuchat-handson-demo.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+        </video>
+      </div>
+      <div class="col-lg-4 mt-4 mt-lg-0" data-aos="fade-in">
+        <div class="content">
+            <h2 id="emails">Doku-chat.de Kurzeinführung</h2>
+            <p>In diesem Demo Video stelle ich die Grundfunktionatlität von Doku-Chat.de vor.</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+<section class="section-padding">
+  <div class="container">
     <div class="row">
+    <h2 class="mb-2">Probieren Sie es direkt selbst aus: </h2>
       <div class="col">
         <div class="card">
           <div class="card-body">
