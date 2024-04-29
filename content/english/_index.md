@@ -1,233 +1,230 @@
 ---
 ############################ Banner ##################################
 banner:
-  enable : true
-  title : "Chatte mit deinen **Dokumenten**!"
-  content : "**ChatGPT & co sind zu allgemein**? **Docu-chat.de** kennt deine hochgeladenen Dokumente und antwortet mit **spezifischem Firmenwissen inkl. Quellen**!"
-  image : "images/screenshots/banner-shot.png"
+  enable: true
+  title: "Chat with your **Documents**!"
+  content: "**ChatGPT & co are too general**? **Docu-chat.de** knows your uploaded documents and responds with **specific company knowledge including sources**!"
+  image: "images/screenshots/banner-shot.png"
   video:
-    enable : true
-    video_embed_link : "/videos/dokuchat-main-ad"
+    enable: true
+    video_embed_link: "/videos/dokuchat-main-ad"
   form:
-    enable : true
-    form_action : "https://formspree.io/f/xbjnpgko"
-    button_label : "Persönliche Demo buchen"
+    enable: true
+    form_action: "https://formspree.io/f/xbjnpgko"
+    button_label: "Book a Personal Demo"
   form_freebie:
-    enable : true
-    form_action : "https://formspree.io/f/xbjnpgko"
-    button_label : "Gratis PDF Tutorial"
-    pdf_explanation: "In dieser gratis PDF erfahren Sie, wie Sie ChatGPT mit Dokumenten nutzen können, wo die Challenges mit DSGVO & co liegen, und wie Sie Schritt für Schritt erklärt eine selbst gehostete eigene Lösung aufsetzen können."
+    enable: true
+    form_action: "https://formspree.io/f/xbjnpgko"
+    button_label: "Free PDF Tutorial"
+    pdf_explanation: "In this free PDF, you'll learn how to use ChatGPT with documents, the challenges with GDPR & co, and step-by-step instructions on setting up a self-hosted solution."
   button:
-    enable : true
-    # icon : "images/brands/google.png"
-    label : "Gratis ausprobieren"
-    link : "pricing"
-    content : "Keine Kreditkarte benötigt. Funktioniert in allen Browsern."
-
+    enable: true
+    label: "Try for Free"
+    link: "pricing"
+    content: "No credit card required. Works in all browsers."
 
 
 ########################## Clients Logo Slider #########################
 clients_logo_slider:
-  enable : false
+  enable: false
   logos:
-  - "images/brands/01-colored.png"
-  - "images/brands/02-colored.png"
-  - "images/brands/03-colored.png"
-  - "images/brands/04-colored.png"
-  - "images/brands/05-colored.png"
-  - "images/brands/06-colored.png"
-  - "images/brands/01-colored.png"
-  - "images/brands/02-colored.png"
-  - "images/brands/03-colored.png"
-  - "images/brands/04-colored.png"
-  - "images/brands/05-colored.png"
-  - "images/brands/06-colored.png"
+    - "images/brands/01-colored.png"
+    - "images/brands/02-colored.png"
+    - "images/brands/03-colored.png"
+    - "images/brands/04-colored.png"
+    - "images/brands/05-colored.png"
+    - "images/brands/06-colored.png"
+    - "images/brands/01-colored.png"
+    - "images/brands/02-colored.png"
+    - "images/brands/03-colored.png"
+    - "images/brands/04-colored.png"
+    - "images/brands/05-colored.png"
+    - "images/brands/06-colored.png"
   
 
 ########################## How it works #########################
 homepage_tab:
-  enable : true
-  title : "Wie es **funktioniert**"
-  content : "Lade deine Dokumente und Emails hoch, und stelle unserer AI Fragen dazu. Sie wird sich an alle Notizen und Emails erinnern, und dir mit spezifischem Firmenwissen antworten! Du hast ein Team? Baue eine Wissensdatenbank auf, die nur dein Team sehen kann!"
+  enable: true
+  title: "How it **Works**"
+  content: "Upload your documents and emails, and ask our AI questions about them. It will remember all notes and emails, and respond with specific company knowledge! Have a team? Build a knowledge base that only your team can see!"
   tablist:
-  # tab item
-  - name : "Dokumente hochladen"
-    title : "**Dokumente** hochladen"
-    image : "images/screenshots/mainscreen.png"
-    content : "Laden Sie Dokumente (word, powerpoint, txt, pdf, ...), Emails oder Notizen hoch, und unsere AI liest sie auf sicheren deutschen Servern ein."
-    button:
-      enable : true
-      label : "Mehr erfahren"
-      link : "how-it-works"
+    # tab item
+    - name: "Upload Documents"
+      title: "**Upload** Documents"
+      image: "images/screenshots/mainscreen.png"
+      content: "Upload documents (word, powerpoint, txt, pdf, ...), emails, or notes, and our AI will read them on secure German servers."
+      button:
+        enable: true
+        label: "Learn More"
+        link: "how-it-works"
       
-  # tab item
-  - name : "Chat starten"
-    title : "**Chat** starten"
-    image : "images/screenshots/chat-zoom.png"
-    content : "Nach dem Upload können Sie der AI jegliche Fragen stellen, und sie wird mit dem Wissen aus den Dokumenten antworten, sogar inklusive Quellen und Zitaten!"
-    button:
-      enable : true
-      label : "Mehr erfahren"
-      link : "how-it-works"
+    # tab item
+    - name: "Start Chatting"
+      title: "**Start** Chatting"
+      image: "images/screenshots/chat-zoom.png"
+      content: "After uploading, you can ask the AI any questions, and it will answer with knowledge from the documents, even including sources and citations!"
+      button:
+        enable: true
+        label: "Learn More"
+        link: "how-it-works"
       
-  # tab item
-  - name : "Unterschiedliche Projekte"
-    title : "Unterschiedliche **Projekte**"
-    image : "images/screenshots/mainscreen.png"
-    content : "ChatGPT & Co erlauben nicht wirklich eine Trennung des Wissens nach Projekten. Was ist wenn bestimmte Teammitglieder nur bestimmte Projekte sehen dürfen? Was wenn man ständig Antworten mit Wissen aus anderen Projekten bekommt? Doku-chat.de erlaubt die Trennung des Wissens nach Projekten und Teams."
-    button:
-      enable : true
-      label : "Mehr erfahren"
-      link : "how-it-works"
+    # tab item
+    - name: "Different Projects"
+      title: "**Different** Projects"
+      image: "images/screenshots/mainscreen.png"
+      content: "ChatGPT & Co don't really allow separation of knowledge by projects. What if certain team members are only allowed to see certain projects? What if you constantly get answers with knowledge from other projects? Doku-chat.de allows separation of knowledge by projects and teams."
+      button:
+        enable: true
+        label: "Learn More"
+        link: "how-it-works"
       
-  # tab item
-  - name : "Firmen-Wissen"
-    title : "**Firmen-Wissen**"
-    image : "images/screenshots/chat.png"
-    content : "Bauen Sie die ultimative Firmen-Wissensdatenbank auf. Wir helfen gerne beim Einlesen von internen Dokumentationen wie Confluence, Jira, Gitlab etc., so dass Sie Ihren Mitarbeitern oder Kunden einen internen Chatbot mit all ihrem Firmenwissen zur Verfügung stellen können!"
-    button:
-      enable : true
-      label : "Mehr erfahren"
-      link : "how-it-works"
+    # tab item
+    - name: "Company Knowledge"
+      title: "**Company Knowledge**"
+      image: "images/screenshots/chat.png"
+      content: "Build the ultimate company knowledge database. We're happy to help with reading in internal documentation such as Confluence, Jira, Gitlab, etc., so you can provide your employees or customers with an internal chatbot with all their company knowledge!"
+      button:
+        enable: true
+        label: "Learn More"
+        link: "how-it-works"
 
 
 
 ########################## How to use #########################
 homepage_howtouse:
-  enable : true
-  title : "**Anwendungsbeispiele**"
-  content : "Docu-chat.de kann in vielen Bereichen eingesetzt werden. Hier sind einige Beispiele, wie Sie Docu-chat.de für sich und in Ihrem Unternehmen nutzen können."
+  enable: true
+  title: "**Use Cases**"
+  content: "Docu-chat.de can be used in many areas. Here are some examples of how you can use Docu-chat.de for yourself and in your company."
   tablist:
-  # tab item
-  - name : "Email Suche"
-    title : "**Emails** durchsuchen"
-    image : "images/screenshots/chat-history.png"
-    content : "Anders als bei Outlook & co muss man nicht das genaue Wort treffen, sondern unsere AI kann auch Wissen aus dem Kontext abrufen. So findet man auch Treffer zu Suchen wie 'was war nochmal der Preis im Angebot von XY?', anstatt sich mühevoll durch die Timeline zu scrollen."
-    button:
-      enable : true
-      label : "Mehr erfahren"
-      link : "how-it-works"
+    # tab item
+    - name: "Email Search"
+      title: "**Search** Emails"
+      image: "images/screenshots/chat-history.png"
+      content: "Unlike Outlook & co, you don't have to hit the exact word, our AI can also retrieve knowledge from context. So you'll also find hits for searches like 'what was the price in the XY offer?', instead of scrolling through the timeline."
+      button:
+        enable: true
+        label: "Learn More"
+        link: "how-it-works"
       
-  # tab item
-  - name : "Dokumente zusammenfassen"
-    title : "Dokumente **zusammenfassen**"
-    image : "images/screenshots/documents.png"
-    content : "Ihre Dokumente sind unübersichtlich und heißen nur 'final_final_final.docx'? Unsere AI kann Ihnen eine Zusammenfassung erstellen, und Ihnen so helfen, schneller zu den wichtigen Informationen zu kommen."
-    button:
-      enable : true
-      label : "Mehr erfahren"
-      link : "how-it-works"
+    # tab item
+    - name: "Summarize Documents"
+      title: "**Summarize** Documents"
+      image: "images/screenshots/documents.png"
+      content: "Your documents are messy and only named 'final_final_final.docx'? Our AI can create a summary for you, helping you get to the important information faster."
+      button:
+        enable: true
+        label: "Learn More"
+        link: "how-it-works"
       
-  # tab item
-  - name : "Firmenwissen für Marketing"
-    title : "**Firmenwissen** für Marketing"
-    image : "images/screenshots/documents.png"
-    content : "ChatGPT & Co wissen nichts über ihre Firma. Sprich Befehle wie 'schreibe einen Werbetext für den XY Kühlschrank' funktionieren nicht. Unsere AI kann dies, solange sie mit genügend Informationen aus den Dokumenten gefüttert wurde. Damit können sie auch spezifische Anweisungen geben wie 'schreibe einen Werbetext für den XY Kühlschrank, der sich an 18-25 jährige richtet'."
-    button:
-      enable : true
-      label : "Mehr erfahren"
-      link : "how-it-works"
+    # tab item
+    - name: "Company Knowledge for Marketing"
+      title: "**Company Knowledge** for Marketing"
+      image: "images/screenshots/documents.png"
+      content: "ChatGPT & Co know nothing about your company. Commands like 'write an ad text for the XY fridge' don't work. Our AI can do this, as long as it has been fed with enough information from the documents. This allows you to give specific instructions like 'write an ad text for the XY fridge targeting 18-25 year olds'."
+      button:
+        enable: true
+        label: "Learn More"
+        link: "how-it-works"
       
-  # tab item
-  - name : "Strategische Entscheidungen"
-    title : "Strategische **Entscheidungen**"
-    image : "images/screenshots/chat-zoom.png"
-    content : "Kennen Sie die Situation wo sie sich viel zu sehr in einem Thema verlieren, und es eventuell wichtigere Fokusgebiete gibt? Unsere AI kann Ihnen bei dem Überblick helfen, da sie sich viel mehr Informationen merken kann als Sie. So können Sie schneller und effizienter Entscheidungen treffen."
-    button:
-      enable : true
-      label : "Mehr erfahren"
-      link : "how-it-works"
+    # tab item
+    - name: "Strategic Decisions"
+      title: "**Strategic** Decisions"
+      image: "images/screenshots/chat-zoom.png"
+      content: "Do you know the situation where you get too lost in a topic, and there may be more important focus areas? Our AI can help you with the overview, as it can remember much more information than you. This way, you can make decisions faster and more efficiently."
+      button:
+        enable: true
+        label: "Learn More"
+        link: "how-it-works"
 
 ############################## Tools in Use ########################
 tools:
-  enable : false
-  title : "Nutze deine **bestehenden Tools** als Informationsquelle"
-  content : "Wir unterstützen"
+  enable: false
+  title: "Use your **existing tools** as a source of information"
+  content: "We support"
   logos:
-  - "images/tools/01.png"
-  - "images/tools/02.png"
-  - "images/tools/03.png"
-  - "images/tools/04.png"
-  - "images/tools/05.png"
-  - "images/tools/06.png"
-  - "images/tools/07.png"
-  - "images/tools/08.png"
-  - "images/tools/05.png"
+    - "images/tools/01.png"
+    - "images/tools/02.png"
+    - "images/tools/03.png"
+    - "images/tools/04.png"
+    - "images/tools/05.png"
+    - "images/tools/06.png"
+    - "images/tools/07.png"
+    - "images/tools/08.png"
+    - "images/tools/05.png"
 
   
-
-############################## Achivement ##############################
+############################## Achievement ##############################
 achivement:
   enable : true
-  title : "Booste deine Produktivität mit einem **allwissenden Assistenten**"
-  content : "Wie viel Zeit verbringst Du damit nach alten Emails und Notizen zu suchen? Was wäre wenn dein virtueller Assistent sich an jedes Dokument, jede Email, jede Notiz der letzten Jahre erinnern würde?"
+  title : "Boost your productivity with an **all-knowing assistant**"
+  content : "How much time do you spend searching for old emails and notes? What if your virtual assistant could remember every document, email, and note from the past years?"
   funfacts:
-  - name : "Im Schnitt gesparte Zeit pro Woche"
+  - name : "Average time saved per week"
     count : "18"
     extension : "h"
     
-  - name : "pro Zusammen- <br/>fassung"
+  - name : "per summary"
     count : "5"
     extension : "s"
     
-  - name : "Reduktion der <br/>Fehlinformation"
+  - name : "Reduction in misinformation"
     count : "34"
     extension : "%"
 
   services:
-  - name : "24/7 persönlicher AI Assistent"
+  - name : "24/7 personal AI assistant"
     icon : "far fa-thumbs-up" # fontawesome icon : https://fontawesome.com/icons
     
-  - name : "Persönliches Onboarding"
+  - name : "Personal onboarding"
     icon : "far fa-comment-dots" # fontawesome icon : https://fontawesome.com/icons
     
   - name : "Made in Germany"
     icon : "fas fa-globe" # fontawesome icon : https://fontawesome.com/icons
     
-  - name : "DSGVO konform"
+  - name : "GDPR compliant"
     icon : "fas fa-shield-alt" # fontawesome icon : https://fontawesome.com/icons
 
 
 ############################## Workflow ################################
 workflow:
   enable : true
-  title : "Sie haben **sensible Daten**?"
+  title : "Do you have **sensitive data**?"
   image : "images/screenshots/mainscreen.png"
-  content : "Wir bieten auch die Option an, unsere in Deutschland gehosteten KI Modelle zu nutzen, so dass Sie alle Vorgaben der Informationssicherheit (BaFin / Kliniklandeskrankenhausgesetz) erfüllen."
+  content : "We also offer the option to use our AI models hosted in Germany, so that you can comply with all information security requirements (BaFin / Hospital Information Security Law)."
   
 
 ############################## about us ################################
 about_us:
   enable : true
-  title : "Wer sind **wir?**"
+  title : "Who are **we?**"
   image : "images/about/01.jpg"
-  content : "DataFortress.cloud ist eine Firma aus Augsburg, Deutschland, welche sich auf Data Engineering im Machine Learning / Big Data Bereich spezialisiert hat. Zu unseren Kunden zählen VW, BMW, Porsche, HPE, Atruvia (Sparkasse & Volksbank), und viele mehr. Nun bieten wir unser Wissen auch in Form von SaaS Produkten an."
+  content : "DataFortress.cloud is a company based in Augsburg, Germany, specializing in Data Engineering in the Machine Learning / Big Data field. Our clients include VW, BMW, Porsche, HPE, Atruvia (Sparkasse & Volksbank), and many more. Now, we also offer our expertise in the form of SaaS products."
   bulletpoints:
-    - "Enterprise Kunden (VW, BMW, Porsche, HPE, Atruvia (Sparkasse & Volksbank), und viele mehr)"
-    - "Data Engineering Datenschutz-Wissen für Finance / Health"
-    - "Ihnen fehlt etwas an dieser Lösung? Wir können auch eine individuelle Lösung für Sie entwickeln!"
+    - "Enterprise clients (VW, BMW, Porsche, HPE, Atruvia (Sparkasse & Volksbank), and many more)"
+    - "Data Engineering Data Protection Knowledge for Finance / Health"
+    - "Missing something in this solution? We can also develop a custom solution for you!"
 
     
 
 ############################# Testimonial ############################
 testimonial:
   enable : true
-  title : "Was unsere **Kunden** sagen"
-  content : "Überzeugen Sie sich selbst von der Leistung unserer AI!"
+  title : "What our **customers** say"
+  content : "See for yourself the performance of our AI!"
   button:
     enable : true
-    label : "Alle Testimonials ansehen"
+    label : "View all testimonials"
     link : "testimonial"
 
   testimonial_item:
   - name : "Max Linnemann"
     image : "images/users/01.jpg"
     designation : "Founder"
-    content : "Ich nutze Docu-chat.de um meine Emails zu durchsuchen. Die Outlook Suche hat für mich nie richtig funktioniert, aber Docu-chat.de findet immer was ich suche! Top!"
+    content : "I use Docu-chat.de to search my emails. Outlook search never really worked for me, but Docu-chat.de always finds what I'm looking for! Top!"
     
   - name : "Mark Hermann"
     image : "images/users/02.jpg"
     designation : "CEO"
-    content : "Wir nutzen Docu-chat.de als interne Wissensdatenbank. Unsere Confluence Seiten sind relativ gut gepflegt, aber die Suche ist einfach nicht so gut, oder Informationen gehen verloren. Der Docu-chat.de Chatbot ist in unser Intranet integriert, und kann so viel schneller Fragen von Mitarbeitern beantworten."
+    content : "We use Docu-chat.de as an internal knowledge database. Our Confluence pages are relatively well maintained, but the search function is just not as good, or information gets lost. The Docu-chat.de chatbot is integrated into our intranet, and can answer questions from employees much faster."
     
 ---

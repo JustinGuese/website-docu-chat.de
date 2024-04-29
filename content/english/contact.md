@@ -1,30 +1,29 @@
 ---
-title : "Kontaktieren Sie uns"
-description : "Kontakt"
-layout : "contact"
-draft : false
-
+title: "Contact Us"
+description: "Kontakt"
+layout: "contact"
+draft: false
 
 ########## Address ###############
 contact_info:
-  enable : true
-  title : "Schreiben Sie uns gerne eine Nachricht"
+  enable: true
+  title: "Feel free to drop us a message"
   address_list:
-  - "info@doku-chat.de"
-  - "(+49) 160 1136770"
-  - "ein Produkt der DataFortress.cloud, Augsburg"
+    - "info@doku-chat.de"
+    - "(+49) 160 1136770"
+    - "a product of DataFortress.cloud, Augsburg"
 
 ############ Services ############
 services:
-  enable : true
-  title : "docu-chat.de kann"
+  enable: true
+  title: "docu-chat.de Can"
   service_list:
-  - "Emails nach Kontext durchsuchen"
-  - "Marketing auf Firmenwissen abstimmen"
-  - "als interne Dokumentation genutzt werden"
-  
+    - "Search emails by context"
+    - "Align marketing with corporate knowledge"
+    - "Be used as internal documentation"
+
 ---
 
-## Kontaktieren Sie uns
+## Contact Us
 
-Sie wissen nich nicht wo Sie anfangen sollen? Gerne helfen wir Ihnen unverbindlich bei einer ersten Einschätzung
+Not sure where to start? We're happy to assist you with an initial assessment without obligation.

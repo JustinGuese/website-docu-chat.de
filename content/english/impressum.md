@@ -1,4 +1,4 @@
-Für den Inhalt dieser Website verantwortlich:
+Responsible for the content of this website:
 
 DataFortress.cloud UG
 Georgenstraße 13

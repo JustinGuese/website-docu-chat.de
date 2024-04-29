@@ -1,62 +1,60 @@
 ---
-title : "Preise"
-description : "this is meta description"
-layout : "pricing"
-offer : "Spare bis zu 40% bei den jährlichen Tarifen!"
-# you can set only monthly, only yearly, or toggle both
+title: "Prices"
+description: "this is meta description"
+layout: "pricing"
+offer: "Save up to 40% on annual plans!"
 monthly_yearly_toggle: "toggle" # available value "monthly"/"yearly"/"toggle"
-draft : false
-
+draft: false
 
 # pricing card
 pricing_card:
-# pricing table
-- name : "Forever Free"
-  content : "Unser 'forever free' ist für immer kostenlos! Limitiert, aber perfekt zum kennenlernen und ausprobieren. Keine Kreditkarte erforderlich."
-  currency: "€"
-  monthly_price : "0"
-  yearly_price : "0"
-  featured : false
-  button_label : "Direkt ausprobieren"
-  button_link : "https://auth.datafortress.cloud/leanai/register"
-  services:
-  - "1 Projekt"
-  - "1 Chat"
-  - "Dokumente hochladen"
-  - "Mit Dokumenten chatten"
-  - "'kleines' KI Modell"
+  # pricing table
+  - name: "Forever Free"
+    content: "Our 'forever free' is forever free! Limited, but perfect for getting to know and try out. No credit card required."
+    currency: "€"
+    monthly_price: "0"
+    yearly_price: "0"
+    featured: false
+    button_label: "Try Now"
+    button_link: "https://auth.datafortress.cloud/leanai/register"
+    services:
+      - "1 Project"
+      - "1 Chat"
+      - "Upload documents"
+      - "Chat with documents"
+      - "'small' AI model"
   
-# pricing table
-- name : "Plus"
-  content : "Der nächste Schritt schon ab 19,99€ im Monat. Unlimitierte Chats, besseres KI Modell und mehr."
-  currency: "€"
-  monthly_price : "19.99"
-  yearly_price : "199"
-  featured : true
-  button_label : "Abonnieren"
-  button_link : "https://app.doku-chat.de/profile"
-  services:
-  - "Alles in 'Forever Free', plus:"
-  - "Unbegrenzte Projekte"
-  - "Unbegrenzte Chats"
-  - "Besseres KI Modell"
+  # pricing table
+  - name: "Plus"
+    content: "The next step starts at €19.99 per month. Unlimited chats, better AI model, and more."
+    currency: "€"
+    monthly_price: "19.99"
+    yearly_price: "199"
+    featured: true
+    button_label: "Subscribe"
+    button_link: "https://app.doku-chat.de/profile"
+    services:
+      - "Everything in 'Forever Free', plus:"
+      - "Unlimited projects"
+      - "Unlimited chats"
+      - "Better AI model"
   
-# pricing table
-- name : "Premium"
-  content : "Der volle Funktionsumfang inklusive Email-Auto-Sync, Team Features, Sharing, und dem besten KI Modell."
-  currency: "€"
-  monthly_price : "99"
-  yearly_price : "990"
-  featured : false
-  button_label : "Abonnieren"
-  button_link : "https://app.doku-chat.de/profile"
-  services:
-  - "Alles in 'Plus', plus:"
-  - "Auto-Sync Integrationen (Email, SharePoint, GDrive, ...)"
-  - "Team Features (Projekte & Dokumente teilen, Chat teilen, ...)"
-  - "Bestes KI Modell"
+  # pricing table
+  - name: "Premium"
+    content: "The full functionality including Email Auto-Sync, Team Features, Sharing, and the best AI model."
+    currency: "€"
+    monthly_price: "99"
+    yearly_price: "990"
+    featured: false
+    button_label: "Subscribe"
+    button_link: "https://app.doku-chat.de/profile"
+    services:
+      - "Everything in 'Plus', plus:"
+      - "Auto-Sync integrations (Email, SharePoint, GDrive, ...)"
+      - "Team Features (share projects & documents, share chat, ...)"
+      - "Best AI model"
 ---
 
-## Der perfekte Preis für jeden
+## The Perfect Price for Everyone
 
-Starten Sie ohne Kreditkarte und ohne Free-Trial Periode direkt in unserem "forever free" Tarif. Wenn Sie bereit sind, können Sie jederzeit auf einen unserer Premium Tarife upgraden - oder auch nicht!
+Start without a credit card and without a free trial period directly in our "forever free" plan. When you're ready, you can upgrade to one of our premium plans anytime - or not!
