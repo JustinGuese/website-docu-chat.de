@@ -14,14 +14,25 @@
           <div class="d-block d-lg-flex no-gutters align-items-center h-100">
             <div class="col-12 col-xl-8 col-lg-8 order-lg-1">
               <div
-                class="banner-image has-video-popup has-shapes mb-4 ml-4 mb-md-5 mb-lg-0">
+                class="banner-image has-video-popup has-shapes mb-4 mb-md-5 mb-lg-0">
                 {{ if .video.enable }}
                   {{ with .video }}
-                    <video class="video" loop controls preload="none" poster="/videos/main-ad-thumbnail.png" style="max-width:500px">
-                      <source src="{{ .video_embed_link }}.webm" type="video/webm" />
-                      <source src="{{ .video_embed_link }}.mp4" type="video/mp4" />
-                      Your browser doesn't support the HTML5 video tag.
-                    </video>
+                    <button
+                      type="button"
+                      class="video-play-btn"
+                      data-bs-toggle="modal"
+                      data-src="{{ .video_embed_link }}"
+                      data-bs-target="#videoModal">
+                      <svg
+                        width="1.8em"
+                        height="1.8em"
+                        viewBox="0 0 16 16"
+                        fill="currentColor"
+                        xmlns="http://www.w3.org/2000/svg">
+                        <path
+                          d="M11.596 8.697l-6.363 3.692c-.54.313-1.233-.066-1.233-.697V4.308c0-.63.692-1.01 1.233-.696l6.363 3.692a.802.802 0 0 1 0 1.393z" />
+                      </svg>
+                    </button>
                   {{ end }}
                 {{ end }}
 
@@ -46,7 +57,6 @@
                     novalidate>
                     <div class="input-group d-block d-sm-flex">
                       <input
-                        name = "email"
                         type="email"
                         class="form-control bg-transparent"
                         placeholder="name@email.com"
@@ -71,37 +81,6 @@
                         </button>
                       </div>
                     </div>
-                  </form>
-
-                  <div class="divider-text mt-25 mb-25">
-                    <span class="bg-light-gray">OR</span>
-                  </div>
-                {{ end }}
-              {{ end }}
-              {{ if .form_freebie.enable }}
-                {{ with .form_freebie }}
-                  <form
-                    action="{{ .form_action }}"
-                    method="post"
-                    class="needs-validation mt-30"
-                    novalidate>
-                    <div class="input-group d-block d-sm-flex">
-                      <input
-                        name = "email"
-                        type="email"
-                        class="form-control bg-transparent"
-                        placeholder="name@email.com"
-                        required />
-                        <input type="hidden" name="request" value="ebookrequest"/>
-                      <div class="input-group-append">
-                        <button
-                          type="submit"
-                          class="btn btn-secondary has-icon ms-15">
-                          {{ .button_label }}
-                      </button>
-                      </div>
-                    </div>
-                    <small>{{ .pdf_explanation }}</small>
                   </form>
 
                   <div class="divider-text mt-25 mb-25">
@@ -202,89 +181,6 @@
   <!-- start of how-it-works tab -->
   {{ if .Params.homepage_tab.enable }}
     {{ with .Params.homepage_tab }}
-      <section
-        class="section-padding how-it-works-tab pt-0 overflow-hidden"
-        data-aos="fade-in">
-        <div class="container">
-          <div class="row justify-content-center">
-            <div class="col-lg-6 col-md-9 text-center mb-40">
-              <h2 class="section-title">{{ .title | markdownify }}</h2>
-              <p>{{ .content | markdownify }}</p>
-            </div>
-            <div class="col-lg-11">
-              <ul
-                class="nav nav-pills justify-content-center mb-20"
-                id="pills-tab"
-                role="tablist">
-                {{ range $i, $e:= .tablist }}
-                  <li class="nav-item mb-20" role="presentation">
-                    <a
-                      class="nav-link {{ if eq $i 0 }}active{{ end }}"
-                      id="pill-{{ .title| urlize }}"
-                      data-bs-toggle="pill"
-                      href="#{{ .title| urlize }}"
-                      role="tab"
-                      aria-controls="{{ .title| urlize }}"
-                      aria-selected="true">
-                      <i class="circle-shape"></i>{{ .name }}
-                    </a>
-                  </li>
-                {{ end }}
-              </ul>
-
-              <div class="tab-content" id="pills-tabContent">
-                {{ range $i, $e:= .tablist }}
-                  <div
-                    class="tab-pane fade {{ if eq $i 0 }}show active{{ end }}"
-                    id="{{ .title | urlize }}"
-                    role="tabpanel"
-                    aria-labelledby="pill-{{ .title | urlize }}">
-                    <div class="row align-items-center">
-                      <div class="col-lg-8 anim-to-top">
-                        {{ partial "image.html" (dict "Src" .image "Alt" "how it works" "Class" `rounded-lg shadow`) }}
-                      </div>
-                      <div class="col-lg-4 mt-4 mt-lg-0 anim-to-bottom">
-                        <h2 class="section-title">
-                          {{ .title | markdownify }}
-                        </h2>
-                        <p class="mb-30">{{ .content | markdownify }}</p>
-                        {{ if .button.enable }}
-                          {{ with .button }}
-                            <a
-                              href="{{ .link | absLangURL }}"
-                              class="btn btn-primary has-icon"
-                              >{{ .label }}
-                              <span class="icon">
-                                <svg
-                                  width="32"
-                                  height="32"
-                                  viewBox="0 0 32 32"
-                                  fill="none"
-                                  xmlns="http://www.w3.org/2000/svg">
-                                  <path
-                                    d="M12.5522 6.66669L20.5522 14.6667C21.0329 15.1473 21.0699 15.9036 20.6632 16.4267L20.5522 16.5523L12.5522 24.5523L10.6666 22.6667L17.7228 15.6095L10.6666 8.55231L12.5522 6.66669Z"
-                                    fill="currentColor" />
-                                </svg>
-                              </span>
-                            </a>
-                          {{ end }}
-                        {{ end }}
-                      </div>
-                    </div>
-                  </div>
-                {{ end }}
-              </div>
-            </div>
-          </div>
-        </div>
-      </section>
-    {{ end }}
-  {{ end }}
-  <!-- end of how-it-works tab -->
-
-  <!-- start of how to use tab -->
-  {{ if .Params.homepage_howtouse.enable }}
-    {{ with .Params.homepage_howtouse }}
       <section
         class="section-padding how-it-works-tab pt-0 overflow-hidden"
         data-aos="fade-in">

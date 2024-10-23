@@ -37,14 +37,10 @@
             <span class="mx-2">|</span>
             <span>{{ .Page.ReadingTime }} {{ i18n "minute_read" }}</span>
           </div>
-          <aside>
-            {{ .TableOfContents }}
-          </aside>
-          <div class="content mt-2">{{.Content}}</div>
-        
+          <div class="content">{{.Content}}</div>
         </div>
 
-        {{ if site.DisqusShortname }}
+        {{ if site.Config.Services.Disqus.Shortname }}
         <div class="col-lg-9 col-md-12" data-aos="fade-in">
           {{ template "_internal/disqus.html" . }}
         </div>
