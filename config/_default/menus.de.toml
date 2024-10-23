@@ -50,6 +50,11 @@ hasChildren = true
   name = "Impressum"
   url = "impressum/"
 
+[[main]]
+name = "EN"
+url = "https://document-chat.com/"
+weight = 6
+
 # Footer menu
 [[footer]]
 name = "Kontakt"
