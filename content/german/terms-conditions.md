@@ -21,7 +21,7 @@ Der Nutzer muss dieses Dokument sorgfältig lesen.
 
 Diese Anwendung wird bereitgestellt von:
 
-DataFortress.cloud UG
+DataFortress.cloud GmbH
  Georgenstraße 13
  86152 Augsburg
  Deutschland

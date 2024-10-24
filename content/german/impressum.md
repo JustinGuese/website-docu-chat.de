@@ -1,6 +1,6 @@
 Für den Inhalt dieser Website verantwortlich:
 
-DataFortress.cloud UG
+DataFortress.cloud GmbH
 Georgenstraße 13
 86152 Augsburg
 Germany
