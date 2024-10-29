@@ -27,11 +27,6 @@ hasChildren = true
 
   [[main]]
   parent = "Über uns"
-  name = "Tutorials"
-  url = "/blog"
-
-  [[main]]
-  parent = "Über uns"
   name = "Mein Abonnement"
   url = "https://billing.stripe.com/p/login/test_bIY6pJesg2dC9iMdQQ"
 
@@ -51,9 +46,14 @@ hasChildren = true
   url = "impressum/"
 
 [[main]]
+name = "Tutorials"
+url = "/blog"
+weight = 6
+
+[[main]]
 name = "EN"
 url = "https://document-chat.com/"
-weight = 6
+weight = 7
 
 # Footer menu
 [[footer]]
