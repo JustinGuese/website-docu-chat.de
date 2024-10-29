@@ -9,7 +9,7 @@ categories: ['Chatgpt', 'KI', 'Dokumente']
 draft : false
 ---
 
-## Einführung in Doku-chat.de: Ihre Dokumenten-Chat-Lösung  
+# Einführung in Doku-chat.de: Ihre Dokumenten-Chat-Lösung  
 
 Wer kennt das nicht: Man sitzt am Schreibtisch, umgeben von einem Berg an Dokumenten, und fragt sich, wo man nur die richtige Information finden kann. Willkommen bei Doku-chat.de, Ihrer neuen Geheimwaffe im Dokumenten-Chaos. Hier trifft die digitale Zukunft auf die Realität im Büro, und zwar in Form eines cleveren Chatbots, der nicht nur plaudern kann, sondern auch gezielt Antworten aus Ihren Dokumenten liefert!
 

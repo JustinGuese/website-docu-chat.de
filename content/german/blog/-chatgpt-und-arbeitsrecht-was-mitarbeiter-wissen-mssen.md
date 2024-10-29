@@ -9,7 +9,7 @@ categories: ['Chatgpt', 'KI', 'Dokumente']
 draft : false
 ---
 
-## Einführung in ChatGPT und Arbeitsrecht
+# Einführung in ChatGPT und Arbeitsrecht
 
 In einer Welt, in der Technologie und Rechtsfragen zunehmend miteinander verwoben sind, ist es nicht überraschend, dass ChatGPT als Schlüsselakteur im Arbeitsrecht auftritt. Aber was ist ChatGPT eigentlich und wie funktioniert es? Einfach gesagt, ist ChatGPT ein KI-gestützter Textgenerator, der aus riesigen Mengen an Informationen lernt, um menschenähnliche Konversationen zu führen. Es ist ein bisschen so, als hätte man einen sehr belesenen Kollegen, der immer bereit ist, seine Meinung zu äußern (ohne jemals eine Kaffeepause einzulegen).
 

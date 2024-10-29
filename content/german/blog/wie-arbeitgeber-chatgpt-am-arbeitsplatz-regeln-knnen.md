@@ -9,7 +9,7 @@ categories: ['Chatgpt', 'KI', 'Dokumente']
 draft : false
 ---
 
-## Die Einführung von Doku-chat.de im Unternehmen
+# Die Einführung von Doku-chat.de im Unternehmen
 
 Die digitale Transformation ist in vollem Gange! Unternehmen jonglieren mit einer Flut an Informationen, Dokumenten und Daten. Hier kommt Doku-chat.de ins Spiel. Mit diesem innovativen Tool haben Mitarbeiter die Möglichkeit, hochgeladene Dokumente direkt zu "befragen" und so die Informationen zu erhalten, die sie benötigen – schnell, effizient und vor allem mit einem Schuss intelligenter Unterstützung. Ob es sich um interne Richtlinien, handliche Protokolle oder auch komplexe Vertragsunterlagen handelt, Doku-chat.de sorgt dafür, dass Informationen nicht nur auf dem Papier, sondern lebendig sind. Und wer weiß, vielleicht ist der Dokumentenchat schon bald das neue Feierabend-Quiz in Unternehmen – Fragen rund um Dokumente, die sogar die härtesten Kritiker zum Schmunzeln bringen!
 

@@ -9,7 +9,7 @@ categories: ['Chatgpt', 'KI', 'Dokumente']
 draft : false
 ---
 
-## Die Vorteile von Doku-chat.de im Büro
+# Die Vorteile von Doku-chat.de im Büro
 
 ### Effiziente Nutzung von Dokumenten
 

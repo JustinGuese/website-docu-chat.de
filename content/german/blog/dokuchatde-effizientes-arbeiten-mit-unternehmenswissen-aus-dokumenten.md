@@ -9,7 +9,7 @@ categories: ['Chatgpt', 'KI', 'Dokumente']
 draft : false
 ---
 
-## Was ist Doku-chat.de?  
+# Was ist Doku-chat.de?  
 ### Ein innovatives SaaS Produkt für Ihr Unternehmen  
 
 Doku-chat.de ist mehr als nur ein weiteres Software-Tool – es ist Ihre neue Geheimwaffe im Kampf gegen Informationsüberflutung! In der heutigen Geschäftswelt, in der sich alles mit der Geschwindigkeit eines Wimpernschlags ändert, kann es wie eine mühsame Schatzsuche wirken, die benötigten Informationen aus einer Flut von Dokumenten herauszufiltern. Hier kommt Doku-chat.de ins Spiel. Unsere Plattform ermöglicht es Ihnen, Dokumente hochzuladen und mit einem intelligenten KI-gestützten Chatbot zu interagieren, der Ihr spezifisches Unternehmenswissen parat hat. Wenn Sie schon immer von einem Mitarbeiter träumen, der nie müde wird und immer bereit ist, Ihnen die besten Antworten zu liefern – voilà, hier ist er! 

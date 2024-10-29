@@ -9,7 +9,7 @@ categories: ['Chatgpt', 'KI', 'Dokumente']
 draft : false
 ---
 
-## Einleitung zu Haftungsrisiken
+# Einleitung zu Haftungsrisiken
 
 ### Warum Haftungsrisiken im Arbeitsumfeld wichtig sind
 

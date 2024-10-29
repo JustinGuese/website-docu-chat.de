@@ -9,7 +9,7 @@ categories: ['Chatgpt', 'KI', 'Dokumente']
 draft : false
 ---
 
-## Was ist Doku-chat.de?  
+# Was ist Doku-chat.de?  
 
 ### Die innovative Chatbot-Lösung für Ihre Dokumente  
 

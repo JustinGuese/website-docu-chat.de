@@ -9,7 +9,7 @@ categories: ['Chatgpt', 'KI', 'Dokumente']
 draft : false
 ---
 
-## Interaktive Dokumentenverwaltung 
+# Interaktive Dokumentenverwaltung 
 
 ### Die Zukunft der Dokumentenorganisation
 

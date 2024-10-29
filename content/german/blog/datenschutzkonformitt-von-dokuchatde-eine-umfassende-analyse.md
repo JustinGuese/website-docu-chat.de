@@ -9,7 +9,7 @@ categories: ['Chatgpt', 'KI', 'Dokumente']
 draft : false
 ---
 
-## Warum Datenschutz wichtig ist  
+# Warum Datenschutz wichtig ist  
 
 In der heutigen digitalen Welt ist Datenschutz ein heiß diskutiertes Thema. Hinter jedem Klick, jedem Download und jeder Online-Interaktion verbergen sich Daten – persönliche, finanzielle, medizinische und noch viel mehr. Wer hätte gedacht, dass das einfache Durchsuchen von Katzenvideos auf YouTube nicht nur Herzchen, sondern auch eine Fülle an Informationen über uns selbst hinterlässt? Datenschutz sorgt dafür, dass diese Informationen nicht in die falschen Hände geraten und wir sicher im digitalen Raum navigieren können.
 

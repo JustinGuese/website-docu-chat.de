@@ -9,7 +9,7 @@ categories: [ "Chatbot", "AI", "Tutorial"]
 draft : false
 ---
 
-## Einleitung 
+# Einleitung 
 
 Die fortschrittlichen Sprachmodelle wie ChatGPT haben zweifellos beeindruckende Fähigkeiten, wenn es darum geht, menschenähnlichen Text zu generieren und auf Fragen zu antworten. Allerdings ist es wichtig zu verstehen, dass diese Modelle nur über Allgemeinwissen verfügen und keinen Zugang zu kontextspezifischen Informationen haben. Zudem sind sie oft auf einem älteren Wissensstand, was bedeutet, dass sie möglicherweise nicht über die aktuellsten Informationen verfügen.
 

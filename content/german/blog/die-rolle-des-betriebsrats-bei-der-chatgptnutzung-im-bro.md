@@ -9,7 +9,7 @@ categories: ['Chatgpt', 'KI', 'Dokumente']
 draft : false
 ---
 
-## Einführung in die Betriebsratsthematik 
+# Einführung in die Betriebsratsthematik 
 
 ### Bedeutung des Betriebsrats in Unternehmen
 

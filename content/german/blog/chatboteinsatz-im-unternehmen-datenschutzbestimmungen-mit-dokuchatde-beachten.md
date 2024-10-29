@@ -9,7 +9,7 @@ categories: ['Chatgpt', 'KI', 'Dokumente']
 draft : false
 ---
 
-## Datenschutz als oberste Priorität  
+# Datenschutz als oberste Priorität  
 
 Datenschutz ist wie der unsichtbare Schutzschild, den wir alle brauchen – vor allem, wenn es um sensible Unternehmensdaten geht. In einer Zeit, in der Datenlecks und Cyberangriffe fast so häufig vorkommen wie Kaffeepausen im Büro, ist die Einhaltung der Datenschutz-Grundverordnung (DSGVO) unerlässlich. Doku-chat.de nimmt den Datenschutz sehr ernst und sorgt dafür, dass Ihre Daten nicht nur nach deutschen Standards, sondern auch nach den strengen Vorgaben der DSGVO behandelt werden. Das bedeutet, dass unsere Server, auf denen Ihre Dokumente lagern, in Deutschland stehen – und damit viel näher an Ihrer Kaffeetasse als Sie vielleicht denken. Ihr Firmendokument ist nämlich nicht nur sicher, sondern auch glücklich, umgeben von einer Umgebung, die Datenschutz großschreibt!
 

@@ -9,7 +9,7 @@ categories: [ "Chatbot", "AI", "DIY", "Tutorial"]
 draft : false
 ---
 
-## Das Problem: 75% der Firmen verbieten die Nutzung von ChatGPT
+# Das Problem: 75% der Firmen verbieten die Nutzung von ChatGPT
 
 Trotz der anfänglichen Begeisterung für Generative KI-Tools wie ChatGPT, ziehen Unternehmen aufgrund wachsender Datenschutz- und Cybersicherheitsbedenken in Erwägung, deren Verwendung zu beschränken. Die Sorge besteht vor allem darin, dass diese KI-Tools Nutzerdaten speichern und aus ihnen lernen, was potenziell zu unbeabsichtigten Datenlecks führen könnte. Obwohl OpenAI, der Entwickler von ChatGPT, eine Opt-out-Option für das Training mit Nutzerdaten bietet, bleibt die Frage, wie die Daten innerhalb des Systems gehandhabt werden, unklar. Zudem fehlen klare gesetzliche Regelungen zur Verantwortung bei durch KI verursachten Datenverletzungen. Unternehmen sind daher zunehmend vorsichtig und warten ab, wie sich die Technologie und ihre Regulierung weiterentwickeln.
 

@@ -9,7 +9,7 @@ categories: ['Chatgpt', 'KI', 'Dokumente']
 draft : false
 ---
 
-## Haftungsrisiken im Digitalen Zeitalter  
+# Haftungsrisiken im Digitalen Zeitalter  
 
 Das digitale Zeitalter hat nicht nur unsere Art zu kommunizieren revolutioniert, sondern bringt auch eine Vielzahl von Haftungsrisiken mit sich. Wenn man daran denkt, dass das Handeln und die Entscheidungen von Unternehmen heutzutage oft von Algorithmen und Chatbots beeinflusst werden, ist es leicht zu verstehen, warum rechtliche Grauzonen entstehen können. Unternehmen müssen sich verstärkt mit rechtlichen Fragestellungen auseinandersetzen, sei es im Hinblick auf Datenschutz, Urheberrecht oder Haftung gegenüber Dritten. Die Frage ist also: Wie hält man mit der digitalen Transformation Schritt, ohne sich selbst in rechtlichen Fallstricken zu verheddern?
 

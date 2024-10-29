@@ -9,7 +9,7 @@ categories: [ "Chatbot", "AI", "DIY"]
 draft : false
 ---
 
-## Einleitung 
+# Einleitung 
 
 In der Welt der künstlichen Intelligenz (KI) haben sich große Sprachmodelle wie GPT (Generative Pre-trained Transformer) als leistungsstarke Werkzeuge für eine Vielzahl von Anwendungen etabliert. Unternehmen sollten jedoch vorsichtig sein, sich zu stark auf diese Modelle zu verlassen. Während sie Genauigkeit und Skalierbarkeit bieten, haben sie auch ihre Grenzen. Sie können aufgrund von Einschränkungen bei den Trainingsdaten voreingenommene oder falsche Antworten liefern und sind nicht in der Lage, den menschlichen Kontext und Feinheiten vollständig zu verstehen.
 

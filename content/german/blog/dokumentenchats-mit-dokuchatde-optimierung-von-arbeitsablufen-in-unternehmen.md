@@ -9,7 +9,7 @@ categories: ['Chatgpt', 'KI', 'Dokumente']
 draft : false
 ---
 
-## Effiziente Kommunikation mit Dokumenten
+# Effiziente Kommunikation mit Dokumenten
 
 ### Wie Doku-chat.de Ihnen Zeit spart
 

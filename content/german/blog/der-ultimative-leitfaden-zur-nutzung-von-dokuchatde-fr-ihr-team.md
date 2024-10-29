@@ -9,7 +9,7 @@ categories: ['Chatgpt', 'KI', 'Dokumente']
 draft : false
 ---
 
-## Einführung in Doku-chat.de  
+# Einführung in Doku-chat.de  
 
 ### Was ist Doku-chat.de?  
 

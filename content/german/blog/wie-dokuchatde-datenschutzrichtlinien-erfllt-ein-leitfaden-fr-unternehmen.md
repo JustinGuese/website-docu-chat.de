@@ -9,7 +9,7 @@ categories: ['Chatgpt', 'KI', 'Dokumente']
 draft : false
 ---
 
-## Einleitung in die Datenschutzbestimmungen  
+# Einleitung in die Datenschutzbestimmungen  
 
 ### Die Bedeutung von Datenschutz für Unternehmen  
 

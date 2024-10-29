@@ -9,7 +9,7 @@ categories: ['Chatgpt', 'KI', 'Dokumente']
 draft : false
 ---
 
-## Entdecken Sie Doku-chat.de  
+# Entdecken Sie Doku-chat.de  
 
 Die digitale Welt hat viele Facetten, aber sind wir mal ehrlich: Dokumentenmanagement kann sich oftmals anfühlen wie das Ausfüllen eines Steuerformulars – unübersichtlich und zeitaufwendig. Hier kommt Doku-chat.de ins Spiel. Werfen Sie einen Blick auf eine Plattform, die es Ihnen ermöglicht, Ihre Dokumente nicht nur zu speichern, sondern mit ihnen zu interagieren! Stellen Sie sich vor, dass Sie mit Ihrem Betriebshandbuch chatten, als würden Sie sich mit einem Kollegen unterhalten. Das ist nicht nur smart, das ist die Zukunft der Dokumentenkommunikation! 
 

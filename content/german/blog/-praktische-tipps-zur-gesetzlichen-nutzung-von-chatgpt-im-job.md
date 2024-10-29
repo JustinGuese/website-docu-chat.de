@@ -7,7 +7,7 @@ author_profile: "https://www.linkedin.com/in/justin-guese/"
 description : "Entdecken Sie, wie Sie ChatGPT rechtssicher im Job einsetzen können. Erfahren Sie praktische Tipps zur DSGVO-Konformität und zur optimalen Nutzung im Unternehmensalltag!"
 categories: ['Chatgpt', 'KI', 'Dokumente']
 draft : false
----
+----
 
 # Einleitung zur Nutzung von KI im Job
 

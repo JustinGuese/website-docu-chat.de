@@ -9,7 +9,7 @@ categories: ['Chatgpt', 'KI', 'Dokumente']
 draft : false
 ---
 
-## Ihre Dokumente, Ihre Fragen
+# Ihre Dokumente, Ihre Fragen
 
 ### Intelligente Antworten aus Ihren Daten
 

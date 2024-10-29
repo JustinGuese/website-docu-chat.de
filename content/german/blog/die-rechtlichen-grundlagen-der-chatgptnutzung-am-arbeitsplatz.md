@@ -9,7 +9,7 @@ categories: ['Chatgpt', 'KI', 'Dokumente']
 draft : false
 ---
 
-## Einführung in die rechtlichen Aspekte der ChatGPT-Nutzung  
+# Einführung in die rechtlichen Aspekte der ChatGPT-Nutzung  
 
 In der heutigen digitalen Welt, in der KI-Systeme wie ChatGPT immer mehr Einzug in Unternehmen halten, ist es unerlässlich, sich mit den rechtlichen Rahmenbedingungen auseinanderzusetzen. Denn während KI uns in vielen Bereichen unterstützen kann, kann sie auch juristische Stolperfallen enthalten. Von Datenschutz über Haftbarkeit bis hin zu IT-Sicherheit gibt es viele Aspekte zu beachten. Aber keine Panik – wir nehmen dich an die Hand und leiten dich durch das rechtliche Dickicht, während du vielleicht gerade die letzte Folge deiner Lieblingsserie streamst.
 

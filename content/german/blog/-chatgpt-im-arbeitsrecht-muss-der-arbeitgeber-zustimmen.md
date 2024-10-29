@@ -9,7 +9,7 @@ categories: ['Chatgpt', 'KI', 'Dokumente']
 draft : false
 ---
 
-## ChatGPT im Arbeitsrecht: Ein Überblick  
+# ChatGPT im Arbeitsrecht: Ein Überblick  
 
 In einer Welt, in der das Arbeitsrecht oft so kompliziert ist wie das Entziffern von Hieroglyphen, bringt ChatGPT frischen Wind in die Angelegenheit. Diese KI-Technologie hat das Potenzial, die Art und Weise zu verändern, wie Unternehmen rechtliche Fragen angehen und bearbeiten. Ob es darum geht, die Bedeutung bestimmter Klauseln zu verstehen oder aktualisierte Gesetze zu recherchieren – mit KI als unterstützenden Partner wird der rechtliche Dschungel zum bunten Blumenfeld. Aber wie funktioniert das genau? Lassen Sie uns genauer darauf schauen!  
 

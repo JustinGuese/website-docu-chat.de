@@ -9,7 +9,7 @@ categories: ['Chatgpt', 'KI', 'Dokumente']
 draft : false
 ---
 
-## Die Zukunft des Wissensaustauschs
+# Die Zukunft des Wissensaustauschs
 
 Wir leben in einer Zeit, in der Wissen der neue Rohstoff ist! Wissen ist Macht, oder wie man in alten Zeiten sagte: „Hast du keine Ahnung, bist du draußen“. Der Austausch von Informationen hat sich gewandelt – anstelle von Staub und Papier bevorzugen wir heute digitale Lösungen. Die Zukunft des Wissensaustauschs liegt in der einfachen, schnellen und intelligenten Interaktion mit unserem Wissen. Das ist kein Science-Fiction-Film, sondern Realität mit Tools wie Doku-chat.de, die uns in Zeiten der Informationsflut helfen, das Wesentliche schnell zu erfassen und zu nutzen.
 

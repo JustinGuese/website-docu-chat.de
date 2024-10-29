@@ -9,7 +9,7 @@ categories: ['Chatgpt', 'KI', 'Dokumente']
 draft : false
 ---
 
-## Einleitung in die Welt der KI-Tools
+# Einleitung in die Welt der KI-Tools
 
 ### Was sind KI-Tools und wie unterstützen sie Unternehmen?
 

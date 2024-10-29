@@ -9,7 +9,7 @@ categories: ['Chatgpt', 'KI', 'Dokumente']
 draft : false
 ---
 
-## Einführung in die Welt von Doku-chat.de  
+# Einführung in die Welt von Doku-chat.de  
 
 Willkommen in der aufregenden Welt von Doku-chat.de – wo Ihre Dokumente nicht nur ein ruhiges Dasein im digitalen Archiv fristen, sondern aktiv ins Gespräch kommen! Stellen Sie sich vor, Sie haben eine Frage zu einem Ihrer geheiligten Unternehmensdokumente. Anstatt durch endlose Seiten zu blättern oder sie mit einem Schrei nach Hilfe ins Nirgendwo zu schicken, können Sie einfach unseren Chatbot zurate ziehen. 
 

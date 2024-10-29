@@ -9,7 +9,7 @@ categories: ['Chatgpt', 'KI', 'Dokumente']
 draft : false
 ---
 
-## Wie Doku-chat.de Ihr Wissen revolutioniert  
+# Wie Doku-chat.de Ihr Wissen revolutioniert  
 
 In einer Welt, in der Informationen in Sekundenschnelle veraltet sind, kommt Doku-chat.de wie ein strahlender Lichtstrahl daher. Dieses innovative SaaS-Tool nutzt die Kraft von Chatbots, um Ihre Unternehmensdokumente nicht nur zu verwalten, sondern sie auch zum Leben zu erwecken. Wie? Indem es Ihnen erlaubt, mit dem Wissen in Ihren Dokumenten zu chatten! Richtig gehört: Ihre Handbücher, Protokolle und Richtlinien werden nicht nur digital abgelegt, sondern werden zu einem interaktiven Wissenspool, aus dem Sie zum Beispiel den perfekten Dialog mit Ihren Kollegen führen können. Worauf warten Sie noch? 
 

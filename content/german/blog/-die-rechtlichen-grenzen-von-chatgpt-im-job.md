@@ -9,7 +9,7 @@ categories: ['Chatgpt', 'KI', 'Dokumente']
 draft : false
 ---
 
-## Die Herausforderungen von KI im Arbeitsumfeld  
+# Die Herausforderungen von KI im Arbeitsumfeld  
 
 Künstliche Intelligenz (KI) ist heutzutage das Buzzword, das in jeder Kaffeeküche und jedem Büroflur fliegt wie ein schnurrendes Kätzchen auf Koffein. Doch während wir die Vorzüge dieser Technologie bewundern, stehen Unternehmen vor einem wahren Dschungel an Herausforderungen, wenn es darum geht, KI rechtssicher und ethisch korrekt im Arbeitsumfeld einzusetzen. Diese Herausforderungen lassen sich kaum ignorieren und verlangen nach täglichen, oft kreativen Lösungen. Wer hätte gedacht, dass eine Software mehr rechtliche Hürden nehmen könnte als ein Büroangestellter bei der Kaffeepause?
 
