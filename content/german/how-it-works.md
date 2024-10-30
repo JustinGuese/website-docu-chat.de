@@ -14,9 +14,7 @@ draft : false
             <h2 class="mb-2">Option 1: Onboarding</h2>
             <p>Buchen Sie ein gratis 30-minütiges Onboarding und erhalten Sie das <strong>Plus Paket einen Monat gratis!</strong></p>
             <p>Unverbindlich, 1:1 mit dem Entwickler.</p>
-            <a href="https://calendly.com/justin-guese/doku-chat-onboarding">
-              <button class="btn btn-primary mt-4">Jetzt buchen</button>
-            </a>
+            <a id="book_metting" class="btn btn-primary text-white" href="https://outlook.office365.com/owa/calendar/BookameetingwithJustin@datafortress.cloud/bookings/" target="_blank">Jetzt buchen</a>
           </div>
         </div>
       </div>

@@ -1,0 +1,68 @@
+- id: quick_links
+  translation: Shortcuts
+  
+- id: social_links
+  translation: Soziale Links
+  
+- id: subscribe
+  translation: Abonnieren Sie Ihre E-Mail
+  
+- id: home
+  translation: Startseite
+  
+- id: all_together
+  translation: Alles zusammen
+  
+- id: name
+  translation: Ihr Name
+  
+- id: mail
+  translation: Arbeits-E-Mail
+  
+- id: website
+  translation: Firmenwebsite
+  
+- id: message
+  translation: Noch etwas?
+  
+- id: submit
+  translation: Jetzt absenden
+  
+- id: monthly
+  translation: Monatlich abgerechnet
+  
+- id: yearly
+  translation: Jährlich abgerechnet
+  
+- id: month
+  translation: Monat
+  
+- id: year
+  translation: Jahr
+  
+- id: view_job
+  translation: Stellenanzeige ansehen
+  
+- id: apply
+  translation: Für Job bewerben
+  
+- id: first_name
+  translation: Vorname
+  
+- id: last_name
+  translation: Nachname
+  
+- id: company
+  translation: Aktuelles Unternehmen
+
+- id: minute_read
+  translation: Minuten Lesezeit
+  
+- id: cv
+  translation: Lebenslauf/CV
+  
+- id: recent_post
+  translation: Neueste Artikel
+  
+- id: recomended
+  translation: Empfohlen
