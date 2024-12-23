@@ -3,7 +3,7 @@
 banner:
   enable: true
   title: 'Chatte mit deinen **Dokumenten**!'
-  content: '**ChatGPT & co sind zu allgemein**? **Docu-chat.de** kennt deine hochgeladenen Dokumente und antwortet mit **spezifischem Firmenwissen inkl. Quellen**!'
+  content: '**ChatGPT & co sind zu allgemein**? **Doku-Chat.de** kennt deine hochgeladenen Dokumente und antwortet mit **spezifischem Firmenwissen inkl. Quellen**!'
   image: 'images/screenshots/banner-shot.png'
   video:
     enable: true
@@ -91,7 +91,7 @@ homepage_tab:
 homepage_howtouse:
   enable: true
   title: '**Anwendungsbeispiele**'
-  content: 'Docu-chat.de kann in vielen Bereichen eingesetzt werden. Hier sind einige Beispiele, wie Sie Docu-chat.de für sich und in Ihrem Unternehmen nutzen können.'
+  content: 'Doku-Chat.de kann in vielen Bereichen eingesetzt werden. Hier sind einige Beispiele, wie Sie Doku-Chat.de für sich und in Ihrem Unternehmen nutzen können.'
   tablist:
     # tab item
     - name: 'Email Suche'
@@ -212,10 +212,10 @@ testimonial:
     - name: 'Max Linnemann'
       image: 'images/users/01.jpg'
       designation: 'Founder'
-      content: 'Ich nutze Docu-chat.de um meine Emails zu durchsuchen. Die Outlook Suche hat für mich nie richtig funktioniert, aber Docu-chat.de findet immer was ich suche! Top!'
+      content: 'Ich nutze Doku-Chat.de um meine Emails zu durchsuchen. Die Outlook Suche hat für mich nie richtig funktioniert, aber Doku-Chat.de findet immer was ich suche! Top!'
 
     - name: 'Mark Hermann'
       image: 'images/users/02.jpg'
       designation: 'CEO'
-      content: 'Wir nutzen Docu-chat.de als interne Wissensdatenbank. Unsere Confluence Seiten sind relativ gut gepflegt, aber die Suche ist einfach nicht so gut, oder Informationen gehen verloren. Der Docu-chat.de Chatbot ist in unser Intranet integriert, und kann so viel schneller Fragen von Mitarbeitern beantworten.'
+      content: 'Wir nutzen Doku-Chat.de als interne Wissensdatenbank. Unsere Confluence Seiten sind relativ gut gepflegt, aber die Suche ist einfach nicht so gut, oder Informationen gehen verloren. Der Doku-Chat.de Chatbot ist in unser Intranet integriert, und kann so viel schneller Fragen von Mitarbeitern beantworten.'
 ---
