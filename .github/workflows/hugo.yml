@@ -49,7 +49,7 @@ jobs:
       - name: Install other dependencies
         run: |
           npm install --prefix themes/copper-hugo
-          npx install postcss
+          npm install postcss
       - name: Install Node.js dependencies
         run: "[[ -f package-lock.json || -f npm-shrinkwrap.json ]] && npm ci || true"
       - name: Build with Hugo
