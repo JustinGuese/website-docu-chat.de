@@ -28,4 +28,4 @@ services:
 
 Sie wissen nich nicht wo Sie anfangen sollen? Gerne helfen wir Ihnen unverbindlich bei einer ersten Einschätzung
 
-<a id="book_meeting" class="btn btn-primary text-white" href="https://outlook.office365.com/owa/calendar/BookameetingwithJustin@datafortress.cloud/bookings/" target="_blank">Gratis 15-minütiges Beratungsgespräch</a>
+<a id="book_meeting" class="btn btn-primary text-white" href="https://calendly.com/justin-guese/15min" target="_blank">Gratis 15-minütiges Beratungsgespräch</a>

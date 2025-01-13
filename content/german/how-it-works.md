@@ -1,8 +1,8 @@
 ---
-title : "How It Works"
-description : "this is meta description"
-layout : "how-it-works"
-draft : false
+title: 'How It Works'
+description: 'this is meta description'
+layout: 'how-it-works'
+draft: false
 ---
 
 <section class="section-padding">
@@ -14,7 +14,7 @@ draft : false
             <h2 class="mb-2">Option 1: Onboarding</h2>
             <p>Buchen Sie ein gratis 30-minütiges Onboarding und erhalten Sie das <strong>Plus Paket einen Monat gratis!</strong></p>
             <p>Unverbindlich, 1:1 mit dem Entwickler.</p>
-            <a id="book_meeting" class="btn btn-primary text-white" href="https://outlook.office365.com/owa/calendar/BookameetingwithJustin@datafortress.cloud/bookings/" target="_blank">Jetzt buchen</a>
+            <a id="book_meeting" class="btn btn-primary text-white" href="https://calendly.com/justin-guese/15min" target="_blank">Jetzt buchen</a>
           </div>
         </div>
       </div>
@@ -34,7 +34,6 @@ draft : false
     </div>
   </div>
 </div>
-
 
 <section class="section-padding">
   <div class="container">
@@ -85,7 +84,6 @@ draft : false
   <div class="shape-6 shape-xs bg-secondary rounded-circle"></div>
   <div class="shape-7 shape-xs-2 bg-tertiary rounded-circle"></div>
 </section>
-
 
 <section class="section-padding">
   <div class="container">
