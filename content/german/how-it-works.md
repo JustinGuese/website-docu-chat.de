@@ -25,7 +25,7 @@ draft: false
             <p>Unser Starter "Forever Free" Tier erlaubt es direkt loszustarten.</p>
             <p>Keine Kreditkarte benötigt. Für immer gratis mit "Forever Free" Paket.</p>
             <p>Ein-Klick Registration mit Google Login, oder Email Account Erstellung.</p>
-            <a href="/de/pricing">
+            <a href="/contact">
               <button class="btn btn-secondary mt-4">Direkt losstarten</button>
             </a>
           </div>
